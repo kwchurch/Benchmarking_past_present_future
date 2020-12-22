@@ -28,8 +28,13 @@ In addition to invited talks, there will be a call for submitted papers on bench
 </ul>
 <h2>Program Committee</h2>
 
-<br> Kenneth Church
-<br>Julia Hirshberg
-<br>Mark Liberman
-<br>Lori Lamel
-<br>Nicoletta Calzolari 
+ 
+<ol>
+<li> Nicoletta Calzolari </li>
+<li> Kenneth Church </li>
+<li> Valia Kordoni </li>
+<li> Julia Hirshberg </li>
+<li> Lori Lamel </li>
+<li> Mark Liberman</li>
+  </ol>
+
