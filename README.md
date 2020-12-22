@@ -42,6 +42,25 @@ We have an amazing collection of invited talks, many with direct first-hand know
   </ol> </li>
 </ol>
 
+Submissions
+
+We accept three types of submissions, long papers, short papers and
+abstracts, all following the ACL2021 style, and the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">ACL submission policy</a>:
+
+
+Long papers may consist of up to eight (8) pages of content, plus
+unlimited references, short papers may consist of up to four (4) pages of
+content; final versions will be given one additional page of content so
+that reviewers' comments can be taken into account. Abstracts may consist
+of up to two (2) pages of content, plus unlimited references but will not
+be given any additional page upon acceptance. Submissions should be sent
+in electronic forms, using the Softconf START conference management
+system. The submission site will be announced on the workshop page once
+available.
+
+We invite original research papers from a wide range of topics, including
+but not limited to:
+
 In addition to invited talks, there will be a call for submitted papers on benchmarking.  It is expected that invited speakers and submitted papers will address the following central questions:
 <ol>
 <li>What important technologies and underlying sciences need to be fostered, now and in the future?</li>
