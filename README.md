@@ -33,7 +33,19 @@ We have an amazing collection of invited talks, many with direct first-hand know
   </ol> </li>
 </ol>
 
-
+In addition to invited talks, there will be a call for submitted papers on benchmarking.  It is expected that invited speakers and submitted papers will address the following central questions:
+<ol>
+<li>What important technologies and underlying sciences need to be fostered, now and in the future?</li>
+<li>In each case, are there existing tasks/benchmarks that move the field in the right direction?</li>
+<li>Where are there gaps?</li>
+<li>For the gaps, are there initial steps that are accessible, attractive, and cost effective?</li>
+<li>How large should a benchmark be?  
+  <ol>
+<li>How much data do we need to measure significant differences?  </li>
+<li>How much data do machines need to obtain good performance?  </li>
+<li>How much data do babies need to learn language? </li>
+  </ol> </li>
+</ol>
 
 </ul>
 <h2>Program Committee</h2>
