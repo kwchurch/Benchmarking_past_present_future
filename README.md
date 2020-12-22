@@ -14,7 +14,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>John Makhoul </li>
 <li>Mark Liberman</li>
 <li>Ellen Voorhees </li>
-  </li>
+ </ol> </li>
 <li>Present
   <ol>
 <li>Ming Zhou </li>
@@ -24,13 +24,13 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>Samuel Bowman </li>
 <li>Douwe Kiela </li>
 <li>Eunsol Choi </li>
-   </li>
+   </ol> </li>
 <li> Future
   <ol>
 <li>Greg Diamos  </li>
 <li>David Ferrucci </li>
 <li>Ido Dagan </li>
-   </li>
+  </ol> </li>
 </ol>
 
 
