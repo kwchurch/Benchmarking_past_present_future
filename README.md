@@ -61,7 +61,6 @@ available.
 We invite original research papers from a wide range of topics, including
 but not limited to:
 
-In addition to invited talks, there will be a call for submitted papers on benchmarking.  It is expected that invited speakers and submitted papers will address the following central questions:
 <ol>
 <li>What important technologies and underlying sciences need to be fostered, now and in the future?</li>
 <li>In each case, are there existing tasks/benchmarks that move the field in the right direction?</li>
