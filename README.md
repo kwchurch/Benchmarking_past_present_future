@@ -5,6 +5,15 @@ Where have we been, and where are we going?  We have an amazing collection of in
 
 It is easier to talk about the past than the future.  These days, benchmarks evolve more bottom up (such as papers with code).  There used to be more top-down leadership from government (and industry, in the case of systems, with benchmarks such as SPEC).  Going forward, there may be more top-down leadership from organizations like MLPerf and/or influencers like David Ferrucci, who was responsible for IBM’s success with Jeopardy, and has recently written a paper suggesting how the community should think about benchmarking for machine comprehension (To Test Machine Comprehension, Start by Defining Comprehension).  Tasks such as reading comprehension become even more interesting as we move beyond English.  Multilinguality introduces many challenges, and even more opportunities.
 
+<h2>Important Dates</h2>
+
+<ul>
+  <li> April 26, 2021: Paper submission </li>
+  <li>  May 28, 2021: Notification of acceptance </li>
+  <li>  June 7, 2021: Camera-ready papers due </li>
+  <li>  August 5-6, 2021: Workshop dates </li>
+  </ul>
+
 <h2>Invited Speakers</h2> 
 
 We have an amazing collection of invited talks, many with direct first-hand knowledge of this history, and many insights for the future.
