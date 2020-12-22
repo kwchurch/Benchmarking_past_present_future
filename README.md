@@ -16,6 +16,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>Ellen Voorhees </li>
   </li>
 <li>Present
+  <ol>
 <li>Ming Zhou </li>
 <li>Hua Wu and Jing Liu </li>
 <li>Neville Ryant </li>
@@ -25,6 +26,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>Eunsol Choi </li>
    </li>
 <li> Future
+  <ol>
 <li>Greg Diamos  </li>
 <li>David Ferrucci </li>
 <li>Ido Dagan </li>
