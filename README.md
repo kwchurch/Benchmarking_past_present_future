@@ -33,6 +33,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>Samuel Bowman </li>
 <li>Douwe Kiela </li>
 <li>Eunsol Choi </li>
+<li>Anders Søgaard</li>
    </ol> </li>
 <li> Future
   <ol>
