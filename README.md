@@ -55,15 +55,6 @@ We have an amazing collection of invited talks, many with direct first-hand know
 
 <h2>Submissions</h2>
 
-
-We accept two types of submissions, long papers and short papers,
-all following the ACL2021 style, and the ACL submission policy:
-https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation
-
-
-
-
-
 We invite original research papers from a wide range of topics, including
 but not limited to:
 
@@ -85,8 +76,8 @@ but not limited to:
 Submissions to https://www.softconf.com/acl2021/w01_Benchmarking-2021/ should
 follow the ACL2021 style, and the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">ACL submission policy</a>. 
 Long papers may consist of up to eight (8) pages of content, plus
-unlimited references, short papers may consist of up to four (4) pages of
-content; final versions will be given one additional page of content so
+unlimited references; short papers may consist of up to four (4) pages of
+content.  Final versions will be given one additional page of content so
 that reviewers' comments can be taken into account.
 
 
