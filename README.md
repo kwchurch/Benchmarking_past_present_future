@@ -99,21 +99,21 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 
 <h2>Workshop Organizers</h2>
 
-<ol>
+<ul>
   <li> Kenneth Church (Baidu USA)</li>
 <li> Mark Liberman (University of Pennsylvania)</li>
 <li> Valia Kordoni (Humboldt-Universität zu Berlin)</li>
-  </ol>
+  </ul>
   
 <h2>Program Committee</h2>
 
  
-<ol>
+<ul>
 <li> Nicoletta Calzolari </li>
 <li> Kenneth Church </li>
 <li> Valia Kordoni </li>
 <li> Julia Hirshberg </li>
 <li> Lori Lamel </li>
 <li> Mark Liberman</li>
-  </ol>
+  </ul>
 
