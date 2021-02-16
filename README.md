@@ -97,6 +97,14 @@ but not limited to:
 The workshop is scheduled to last for one day either August 5th or 6th. If
 you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2021@googlegroups.com">pc-benchmarking-ws-acl2021@googlegroups.com</a>.
 
+<h2>Workshop Organizers</h2>
+
+<ol>
+  <li> Kenneth Church (Baidu USA)</li>
+<li> Mark Liberman (University of Pennsylvania)</li>
+<li> Valia Kordoni (Humboldt-Universität zu Berlin)</li>
+  </ol>
+  
 <h2>Program Committee</h2>
 
  
