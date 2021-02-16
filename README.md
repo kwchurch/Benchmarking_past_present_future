@@ -61,18 +61,7 @@ all following the ACL2021 style, and the ACL submission policy:
 https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation
 
 
-Long papers may consist of up to eight (8) pages of content, plus
-unlimited references, short papers may consist of up to four (4) pages of
-content; final versions will be given one additional page of content so
-that reviewers' comments can be taken into account.
 
-Submissions should be sent in electronic forms, using the Softconf START
-conference management system. Please choose the appropriate submission
-modality
-(long/short): https://www.softconf.com/acl2021/w01_Benchmarking-2021/
-
-We accept three types of submissions, long papers, short papers and
-abstracts, all following the ACL2021 style, and the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">ACL submission policy</a>:
 
 
 We invite original research papers from a wide range of topics, including
@@ -93,6 +82,15 @@ but not limited to:
 
 </ul>
 
+Submissions to https://www.softconf.com/acl2021/w01_Benchmarking-2021/ should
+follow the ACL2021 style, and the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">ACL submission policy</a>. 
+Long papers may consist of up to eight (8) pages of content, plus
+unlimited references, short papers may consist of up to four (4) pages of
+content; final versions will be given one additional page of content so
+that reviewers' comments can be taken into account.
+
+
+
 
 The workshop is scheduled to last for one day either August 5th or 6th. If
 you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2021@googlegroups.com">pc-benchmarking-ws-acl2021@googlegroups.com</a>.
@@ -109,11 +107,19 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 
  
 <ul>
-<li> Nicoletta Calzolari </li>
-<li> Kenneth Church </li>
-<li> Valia Kordoni </li>
-<li> Julia Hirshberg </li>
-<li> Lori Lamel </li>
-<li> Mark Liberman</li>
+<li> Nicoletta Calzolari (Italy) </li>
+<li> Kenneth Church (Baidu, USA) </li>
+<li> Valia Kordoni (Humboldt, Germany) </li>
+<li> Julia Hirshberg (Columbia, USA) </li>
+<li> Lori Lamel (LIMSI, France) </li>
+<li> Mark Liberman (Penn, USA) </li>
+  
+<li>Barbara Plank (IT University of Copenhagen, Denmark)</li>
+
+<li>Preslav Nakov (Qatar Computing Research Institute (QCRI), HBKU)</li>
+
+<li>Anette Frank (University of Heidelberg, Germany)</li>
+
+<li>Roy Bar-Haim (IBM Research - Haifa, Israel)</li>
   </ul>
 
