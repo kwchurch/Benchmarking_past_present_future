@@ -57,10 +57,26 @@ We have an amazing collection of invited talks, many with direct first-hand know
 
 <h2>Submissions</h2>
 
+
+We accept two types of submissions, long papers and short papers,
+all following the ACL2021 style, and the ACL submission policy:
+https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation
+
+
+Long papers may consist of up to eight (8) pages of content, plus
+unlimited references, short papers may consist of up to four (4) pages of
+content; final versions will be given one additional page of content so
+that reviewers' comments can be taken into account.
+
+Submissions should be sent in electronic forms, using the Softconf START
+conference management system. Please choose the appropriate submission
+modality
+(long/short): https://www.softconf.com/acl2021/w01_Benchmarking-2021/
+
 We accept three types of submissions, long papers, short papers and
 abstracts, all following the ACL2021 style, and the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">ACL submission policy</a>:
 
-
+<--
 Long papers may consist of up to eight (8) pages of content, plus
 unlimited references, short papers may consist of up to four (4) pages of
 content; final versions will be given one additional page of content so
@@ -69,7 +85,7 @@ of up to two (2) pages of content, plus unlimited references but will not
 be given any additional page upon acceptance. Submissions should be sent
 in electronic forms, using the Softconf START conference management
 system. The submission site will be announced on the workshop page once
-available.
+available. -->
 
 We invite original research papers from a wide range of topics, including
 but not limited to:
@@ -88,6 +104,11 @@ but not limited to:
 </ol>
 
 </ul>
+
+
+The workshop is scheduled to last for one day either August 5th or 6th. If
+you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2021@googlegroups.com">pc-benchmarking-ws-acl2021@googlegroups.com</a>.
+
 <h2>Program Committee</h2>
 
  
@@ -99,6 +120,4 @@ but not limited to:
 <li> Lori Lamel </li>
 <li> Mark Liberman</li>
   </ol>
-
-Contact us <a href = "mailto: pc-benchmarking-ws-acl2021@googlegroups.com">here</a>, if you have any questions.
 
