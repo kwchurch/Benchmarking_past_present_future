@@ -100,11 +100,12 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 <ul>
 <li> Nicoletta Calzolari (Italy) </li>
 <li> Kenneth Church (Baidu, USA) </li>
+  <li> Christian Federmann (Microsoft Research, USA) </li>
 <li> Valia Kordoni (Humboldt, Germany) </li>
 <li> Julia Hirshberg (Columbia, USA) </li>
 <li> Lori Lamel (LIMSI, France) </li>
 <li> Mark Liberman (Penn, USA) </li>
-  
+  <li> Phillip Koehn (JHU, USA) </li>
 <li>Barbara Plank (IT University of Copenhagen, Denmark)</li>
 
 <li>Preslav Nakov (Qatar Computing Research Institute (QCRI), HBKU)</li>
