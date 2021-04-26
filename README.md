@@ -32,7 +32,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <ol> <li>Past
   <ol>
 <li>John Makhoul </li>
-<li>Mark Liberman</li>
+<li><a href="#Liberman">Mark Liberman</a></li>
 <li><a href="#Voorhees">Ellen Voorhees</a></li>
 <li><a href="#Mashey">John Mashey</a></li>
  </ol> </li>
