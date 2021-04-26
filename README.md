@@ -41,7 +41,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>Ming Zhou</li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li>Neville Ryant </li>
-<li><a href="#MacWhinney">Brian MacWhinney</a> and Saturnino Haider</li>
+<li><a href="#MacWhinney">Brian MacWhinney and Saturnino Haider</a></li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
 <li>Eunsol Choi</li>
@@ -206,10 +206,11 @@ Over the course of half a century, DARPA's Human Language Technology program cre
 Bio: Mark Liberman is the Christopher H. Browne Professor of Linguistics at the University of Pennsylvania, with positions in the department of computer science and in the psychology graduate group. He is also founder and director of the Linguistic Data Consortium. Before coming to the University of Pennsylvania, he was head of the linguistics research department at AT&T Bell Laboratories.
 
 
-<h3 id="MacWhinney">Speaker: Brian MacWhinney</h3>
+<h3 id="MacWhinney">Speakers: Brian MacWhinney and Saturnino Haider</h3>
 <br>
 Language Technologies and Modern Languages, CMU
 
+<h4>Title: Detection of Dementia from Speech Samples</h4>
 <p>
 Diagnosis or early detection of the onset of dementia is important
 for interventions and planning for life-style changes.  Ideally, we
