@@ -49,7 +49,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
    </ol> </li>
 <li> Future
   <ol>
-<li>Greg Diamos</li>
+<li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
 <li><a href="#Ferrucci">Dave Ferrucci</a></li>
 <li>Ido Dagan </li>
   </ol> </li>
@@ -136,6 +136,27 @@ Evaluation for many natural language understanding (NLU) tasks is broken: Unreli
 <p>
 Bio: Sam Bowman has been on the faculty at NYU since 2016, when he completed PhD with Chris Manning and Chris Potts at Stanford. At NYU, he is a member of the Center for Data Science, the Department of Linguistics, and Courant Institute's Department of Computer Science. His research focuses on data, evaluation techniques, and modeling techniques for sentence and paragraph understanding in natural language processing, and on applications of machine learning to scientific questions in linguistic syntax and semantics. He is the senior organizer behind the GLUE and SuperGLUE benchmark competitions; he organized a twenty-three-person research team at JSALT 2018; and he received a 2015 EMNLP Best Resource Paper Award, a 2019 *SEM Best Paper Award, and a 2017 Google Faculty Research Award.
 
+<h3 id=Diamos">Speakers: Greg Diamos, Peter Mattson, David Kanter</h3>
+<br>
+<a href="https://www.anandtech.com/show/14754/hot-chips-31-live-blogs-mlperf-benchmark">https://www.anandtech.com/show/14754/hot-chips-31-live-blogs-mlperf-benchmark</a>
+
+
+<h4>Title: MLPerf</h4>
+
+Two topics: (1) What is MLPerf?  (2) Advice for groups wanting to create new sets of benchmarks.
+
+<p>
+
+Bio: Greg is helping build Landing AI, a new company focused on
+bringing AI to every major industry starting with our first
+manufacturing visual inspection product, LandingLens.  Greg co-founded
+MLPerf and MLCommons.  Greg helped found Baidu’s Silicon Valley AI
+Lab, where he contributed to the DeepSpeech, DeepVoice, and Mixed
+Precision training systems. Greg contributed the independent thread
+scheduling system to the NVIDIA Volta GPU.
+<p>
+He holds a Ph.D. in electrical engineering from the Georgia Institute of Technology.
+
 <h3 id="Ferrucci">Speaker: Dave Ferrucci</h3>
 Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 <br>
@@ -143,7 +164,7 @@ Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 <br>
 <a href="https://ec.ai/">ec.ai</a>
 
-<h3>Title: Machine Understanding in Context</h3>
+<h4>Title: Machine Understanding in Context</h4>
 
 The ability for machines to read, understand and reason about natural
 language would dramatically transform the knowledge economy across all
