@@ -38,10 +38,10 @@ We have an amazing collection of invited talks, many with direct first-hand know
  </ol> </li>
 <li>Present
   <ol>
-<li>Ming Zhou </li>
+<li>Ming Zhou</li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li>Neville Ryant </li>
-<li>Brian MacWhinney and Saturnino Haider</li>
+<li><a href="#MacWhinney">Brian MacWhinney</a> and Saturnino Haider</li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
 <li>Eunsol Choi</li>
@@ -205,6 +205,28 @@ Over the course of half a century, DARPA's Human Language Technology program cre
 <p>
 Bio: Mark Liberman is the Christopher H. Browne Professor of Linguistics at the University of Pennsylvania, with positions in the department of computer science and in the psychology graduate group. He is also founder and director of the Linguistic Data Consortium. Before coming to the University of Pennsylvania, he was head of the linguistics research department at AT&T Bell Laboratories.
 
+
+<h3 id="MacWhinney">Speaker: Brian MacWhinney</h3>
+<br>
+Language Technologies and Modern Languages, CMU
+
+
+Bio: Brian MacWhinney is Teresa Heinz Professor of Psychology,
+Computational Linguistics, and Modern Languages at Carnegie Mellon
+University. His Unified Competition Model analyzes first and second
+language learning as aspects of a single basic system. He has
+developed a series of 13 TalkBank open access online databases for the
+study of language learning, multilingualism, and language
+disorders. The databases for language disorders include AphasiaBank,
+ASDBank, DementiaBank, FluencyBank, RHDBank, and TBIBank. These
+databases provide transcriptions of spoken language linked to audio
+and video media, along with programs for analysis and linguistic
+profiling. His other research topics include methods for online
+learning of second language vocabulary and grammar, neural network
+modeling of lexical development, fMRI studies of children with focal
+brain lesions, ERP studies of between-language competition, and the
+role of embodied perspectival imagery in sentence processing.
+
 <h3 id="Mashey">Speaker: John Mashey</h3>
 <br>
 <a href="https://en.wikipedia.org/wiki/John_Mashey">https://en.wikipedia.org/wiki/John_Mashey</a>
@@ -251,9 +273,6 @@ Bio: John Mashey is a semi-retired computer scientist/corporate executive at Bel
 where he is was originator of the phrase “Big Data” (according to NY Times).
 He later consulted for venture capitalists, advised startups and occasionally consulted for companies like Nvidia. He is a 20-year Trustee at the Computer History Museum.
 He was one of the 4 cofounders of the SPEC benchmarking group in 1988 and was asked in 2018 to advise the MLperf benchmarking group on relevant statistics.
-
-
- 
 
 
 <h3 id="Voorhees">Speaker: Ellen Voorhees</h3>
