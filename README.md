@@ -41,7 +41,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li>Ming Zhou</li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li>Neville Ryant </li>
-<li><a href="#MacWhinney">Brian MacWhinney and Saturnino Haider</a></li>
+<li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
 <li>Eunsol Choi</li>
@@ -99,6 +99,7 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 
  
 <ul>
+<li> Eduardo Blanco (University of North Texas)</li>
 <li> Nicoletta Calzolari (Italy) </li>
 <li> Kenneth Church (Baidu, USA) </li>
   <li> Christian Federmann (Microsoft Research, USA) </li>
@@ -206,9 +207,13 @@ Over the course of half a century, DARPA's Human Language Technology program cre
 Bio: Mark Liberman is the Christopher H. Browne Professor of Linguistics at the University of Pennsylvania, with positions in the department of computer science and in the psychology graduate group. He is also founder and director of the Linguistic Data Consortium. Before coming to the University of Pennsylvania, he was head of the linguistics research department at AT&T Bell Laboratories.
 
 
-<h3 id="MacWhinney">Speakers: Brian MacWhinney and Saturnino Haider</h3>
+<h3 id="MacWhinney">Speakers: Brian MacWhinney and Saturnino Luz</h3>
 <br>
 Language Technologies and Modern Languages, CMU
+<br>
+University of Edinburgh
+<br>
+<a href="https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho">https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho</a>
 
 <h4>Title: Detection of Dementia from Speech Samples</h4>
 <p>
@@ -234,7 +239,7 @@ algorithms, but we need more sharing of primary language data,
 including data outside of English.
 
 <p>
-Bio: Brian MacWhinney is Teresa Heinz Professor of Psychology,
+Bios: Brian MacWhinney is Teresa Heinz Professor of Psychology,
 Computational Linguistics, and Modern Languages at Carnegie Mellon
 University. His Unified Competition Model analyzes first and second
 language learning as aspects of a single basic system. He has
@@ -249,6 +254,13 @@ learning of second language vocabulary and grammar, neural network
 modeling of lexical development, fMRI studies of children with focal
 brain lesions, ERP studies of between-language competition, and the
 role of embodied perspectival imagery in sentence processing.
+<p>
+Dr. Luz is a reader in medical informatics at the Usher Institute,
+Edinburgh medical School. His is interested in the use of computational
+methods in the study of behavioural changes caused by neurodegenerative
+diseases, with focus on vocalisation and linguistic behaviour.  He has
+also studied interaction in multidisciplinary medical team meetings,
+doctor-patient consultations, telemedicine and patient safety.
 
 <h3 id="Mashey">Speaker: John Mashey</h3>
 <br>
