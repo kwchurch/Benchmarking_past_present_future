@@ -50,7 +50,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li> Future
   <ol>
 <li>Greg Diamos</li>
-<li><a href="#Ferrucci">David Ferrucci</a></li>
+<li><a href="#Ferrucci">Dave Ferrucci</a></li>
 <li>Ido Dagan </li>
   </ol> </li>
 </ol>
@@ -162,7 +162,6 @@ of language understanding capabilities we envision would do better to
 advance the field of NLU.
 
 <p>  
-
 Bio: Dave Ferrucci is an award-winning Artificial Intelligence
 researcher who started and led the IBM Watson team from its inception
 through its landmark Jeopardy success in 2011. Dr. Ferrucci’s more
@@ -172,7 +171,7 @@ learn, and communicate inspired him to found Elemental Cognition in
 language understanding. It explores methods of learning that result in
 explicable models of intelligence and cross-industry applications.  
 <p>
-  Dr. Ferrucci graduated from Rensselaer Polytechnic Institute with a
+Dr. Ferrucci graduated from Rensselaer Polytechnic Institute with a
 Ph.D. in Computer Science. He has over 100 patents and
 publications. He is an IBM Fellow and has worked at IBM Research and
 Bridgewater Associates directing their AI research. He has keynoted at
