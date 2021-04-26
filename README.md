@@ -199,7 +199,7 @@ Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on nat
 
 <h3 id="Liberman">Speaker: Mark Liberman</h3>
 
-<h2>Title: Benchmarking as a Method for Long-Term Research Management: The Common Task Method</h2>
+<h4>Title: Benchmarking as a Method for Long-Term Research Management: The Common Task Method</h4>
 
 Over the course of half a century, DARPA's Human Language Technology program created capabilities such as speech recognition, machine translation, and text understanding, turning them from science fiction fantasies to everyday practical fact. This sustained success was based on the development of the Common Task Method, which allowed decades of incremental progress in advance of commercial viability. I'll describe the origin and (sometimes counter-intuitive) progress of this method, distinguish it from other uses of benchmarking, and speculate about its future.
 <p>
