@@ -210,7 +210,29 @@ Bio: Mark Liberman is the Christopher H. Browne Professor of Linguistics at the 
 <br>
 Language Technologies and Modern Languages, CMU
 
+<p>
+Diagnosis or early detectioin of the onset of dementia is important
+for interventions and planning for life-style changes.  Ideally, we
+would like to achieve accurate diagnosis based on samples of
+naturalistic language production, as well as samples ellicited using
+some standard formats, such as narrative, script reading, or picture
+description. Currently, research in this area relies primarily on the
+Pitt Corpus in DementiaBank which includes cookie theft narratives
+from 104 controls, 208 persons with dementia, and 85 persons with
+unknown diagnosis. These data were used in the ADReSS challenge for
+INTERSPEECH2020 and will be used in a new challenge for 2021.  The
+previous challenge used hand-created transcripts.  The new challenge
+focuses on a pipeline that can be applied automatically, using ASR and
+NLP methods. The four major gaps in the current data set are: 1) we
+need fuller ancillariy data on cognitive and medical status, 2) we
+need longitudinal data on progression, 3) we need more data across
+language task and interaction types, and 4) ideally, we would like to
+have data recorded in the home with voice assistant technology.
+Currently, challenge participants are committed to open sharing of
+algorithms, but we need more sharing of primary language data,
+including data outside of English.
 
+<p>
 Bio: Brian MacWhinney is Teresa Heinz Professor of Psychology,
 Computational Linguistics, and Modern Languages at Carnegie Mellon
 University. His Unified Competition Model analyzes first and second
