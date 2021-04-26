@@ -136,7 +136,7 @@ Evaluation for many natural language understanding (NLU) tasks is broken: Unreli
 Bio: Sam Bowman has been on the faculty at NYU since 2016, when he completed PhD with Chris Manning and Chris Potts at Stanford. At NYU, he is a member of the Center for Data Science, the Department of Linguistics, and Courant Institute's Department of Computer Science. His research focuses on data, evaluation techniques, and modeling techniques for sentence and paragraph understanding in natural language processing, and on applications of machine learning to scientific questions in linguistic syntax and semantics. He is the senior organizer behind the GLUE and SuperGLUE benchmark competitions; he organized a twenty-three-person research team at JSALT 2018; and he received a 2015 EMNLP Best Resource Paper Award, a 2019 *SEM Best Paper Award, and a 2017 Google Faculty Research Award.
 
 <h3 id="Ferrucci">Speaker: Dave Ferrucci</h3>
-Founder & CEO, <a href="https://ec.ai/">Elemental Cognition"</a>
+Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 <br>
 <a href="mailto:davef@ec.ai">davef@ec.ai</a>
 <br>
