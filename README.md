@@ -1,4 +1,3 @@
-# Benchmarking_past_present_future
 <html>
   <body>
 <h1>Workshop Home Page for Benchmarking: Past, Present and Future</h1>
@@ -121,7 +120,7 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 <h2>Abstracts for Invited Talks</h2>
 
 
-<h3 id="Bowman">Sam Bowman</h3>
+<h3 id="Bowman">Speaker: Sam Bowman</h3>
 <br>
 New York University
 <br>
@@ -129,7 +128,7 @@ New York University
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
 
-<h3> What Will it Take to Fix Benchmarking in Natural Language Understanding?</h3>
+<h3>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h3>
 
 Evaluation for many natural language understanding (NLU) tasks is broken: Unreliable and biased systems score so highly on standard benchmarks that there is little room for researchers who develop better systems to demonstrate their improvements. The recent trend to abandon IID benchmarks in favor of adversarially-constructed, out-of-distribution test sets ensures that current models will perform poorly, but ultimately only obscures the abilities that we want our benchmarks to measure. In this position paper, we lay out four criteria that we argue NLU benchmarks should meet. We argue most current benchmarks fail at these criteria, and that adversarial data collection does not meaningfully address the causes of these failures. Instead, restoring a healthy evaluation ecosystem will require significant progress in the design of benchmark datasets, the reliability with which they are annotated, their size, and the ways they handle social bias.
 
@@ -137,7 +136,7 @@ Evaluation for many natural language understanding (NLU) tasks is broken: Unreli
 Bio: Sam Bowman has been on the faculty at NYU since 2016, when he completed PhD with Chris Manning and Chris Potts at Stanford. At NYU, he is a member of the Center for Data Science, the Department of Linguistics, and Courant Institute's Department of Computer Science. His research focuses on data, evaluation techniques, and modeling techniques for sentence and paragraph understanding in natural language processing, and on applications of machine learning to scientific questions in linguistic syntax and semantics. He is the senior organizer behind the GLUE and SuperGLUE benchmark competitions; he organized a twenty-three-person research team at JSALT 2018; and he received a 2015 EMNLP Best Resource Paper Award, a 2019 *SEM Best Paper Award, and a 2017 Google Faculty Research Award.
 
 
-<h3 id="Kiela">Douwe Kiela</h3>
+<h3 id="Kiela">Speaker: Douwe Kiela</h3>
 <br>
 Facebook AI Research
 <br>
@@ -145,7 +144,7 @@ Facebook AI Research
 <br>
 @douwekiela on Twitter
 
-<h4> Rethinking Benchmarking in AI</h4>
+<h4>Title: Rethinking Benchmarking in AI</h4>
 
 The current benchmarking paradigm in AI has many issues: benchmarks saturate quickly, are susceptible to overfitting, contain exploitable annotator artifacts, have unclear or imperfect evaluation metrics, and do not necessarily measure what we really care about. I will talk about our work in trying to rethink the way we do benchmarking in AI, specifically in natural language processing, focusing mostly on the Dynabench platform.
 
@@ -154,7 +153,7 @@ The current benchmarking paradigm in AI has many issues: benchmarks saturate qui
 Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on natural language processing and multimodal reasoning and understanding. His work has mainly been focused on representation learning, grounded language learning and multi-agent communication. Recently, he has become interested in improving the way we evaluate AI systems.
 
 
-<h3 id="Mashey">John Mashey</h3>
+<h3 id="Mashey">Speaker: John Mashey</h3>
 <br>
 <a href="https://en.wikipedia.org/wiki/John_Mashey">https://en.wikipedia.org/wiki/John_Mashey</a>
 <br>
@@ -168,7 +167,7 @@ Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on nat
 <br>
 Twitter:@johnmashey
 
-<h4>Lessons from SPEC</h4>
+<h4>Title: Lessons from SPEC</h4>
  
 
 In the 1980s, amidst fierce competition among new microprocessor architectures, CPU benchmarking was in poor condition.
@@ -205,7 +204,7 @@ He was one of the 4 cofounders of the SPEC benchmarking group in 1988 and was as
  
 
 
-<h3 id="Voorhees">Ellen Voorhees</h3>
+<h3 id="Voorhees">Speaker: Ellen Voorhees</h3>
 <br><a href="https://trec.nist.gov">National Institute of Standards and Technology</a>
 <br><a href="https://www.nist.gov/people/ellen-m-voorhees">https://www.nist.gov/people/ellen-m-voorhees</a>
 
@@ -219,21 +218,21 @@ This talk will use TREC tracks as case studies to explore the benefits and disad
 Voorhees is a fellow of the ACM and an inaugural member of the ACM SIGIR Academy.   She has published numerous articles on information retrieval techniques and evaluation methodologies and serves on the review boards of several journals and conferences.
 
 
-<h3 id=Sogaard>Anders Søgaard</h3>
+<h3 id=Sogaard>Speaker: Anders Søgaard</h3>
 University of Copenhagen
 <br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
 
-<h4>Ways to Make Your Data More Relevant</h4>
+<h4>Title: Ways to Make Your Data More Relevant</h4>
 
 
-<h3 id="Wu">Hua Wu and Jing Liu</h3>
+<h3 id="Wu">Speakers: Hua Wu and Jing Liu</h3>
 <br>
 Baidu
 <a href="https://wuhuanlp.github.io/>Hua Wu</a>
 <br>
 <a ref="https://www.machinereading.ai/">Jing Liu</a>
 
-<h4>Benchmarks: An Industry Perspective</h4>
+<h4>Title: Benchmarks: An Industry Perspective</h4>
 
 In recent years, the researchers from academia created large-scale
 datasets mainly in a crowdsourcing way, that accelerate the
