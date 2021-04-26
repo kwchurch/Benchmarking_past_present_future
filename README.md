@@ -231,7 +231,7 @@ Baidu
 <br>
 <a href="https://wuhuanlp.github.io/">Hua Wu</a>
 <br>
-<a ref="https://www.machinereading.ai/">Jing Liu</a>
+<a href="https://www.machinereading.ai/">Jing Liu</a>
 
 <h4>Title: Benchmarks: An Industry Perspective</h4>
 
