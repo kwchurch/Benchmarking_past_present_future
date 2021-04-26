@@ -50,7 +50,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li> Future
   <ol>
 <li>Greg Diamos</li>
-<li><a href="#Ferruci">David Ferrucci</a></li>
+<li><a href="#Ferrucci">David Ferrucci</a></li>
 <li>Ido Dagan </li>
   </ol> </li>
 </ol>
