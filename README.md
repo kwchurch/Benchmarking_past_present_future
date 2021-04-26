@@ -144,15 +144,42 @@ Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 
 <h3>Title: Machine Understanding in Context</h3>
 
-The ability for machines to read, understand and reason about natural language would dramatically transform the knowledge economy across all industries. Today’s latest Deep Learning marvels do not understand what they read to the extent required for rational problem solving and transparent decision making. And yet we need machines to read, understand and engage with us at a rational level for us to take responsibility for their predictions.  A potential problem slowing the advancement of natural language understanding may be that we are not ambitiously or rigorously defining what it means to comprehend language in the first place. Current metrics and tests may be insufficient to drive the right results. In this talk, I will present a definition of comprehension and early experimental results that strongly suggest existing systems are not up to the task. I will also demonstrate a system architecture and behavior that reflects the sort of language understanding capabilities we envision would do better to advance the field of NLU. 
+The ability for machines to read, understand and reason about natural
+language would dramatically transform the knowledge economy across all
+industries. Today’s latest Deep Learning marvels do not understand
+what they read to the extent required for rational problem solving and
+transparent decision making. And yet we need machines to read,
+understand and engage with us at a rational level for us to take
+responsibility for their predictions.  A potential problem slowing the
+advancement of natural language understanding may be that we are not
+ambitiously or rigorously defining what it means to comprehend
+language in the first place. Current metrics and tests may be
+insufficient to drive the right results. In this talk, I will present
+a definition of comprehension and early experimental results that
+strongly suggest existing systems are not up to the task. I will also
+demonstrate a system architecture and behavior that reflects the sort
+of language understanding capabilities we envision would do better to
+advance the field of NLU.
 
 <p>  
-Bio:  
 
-Dave Ferrucci is an award-winning Artificial Intelligence researcher who started and led the IBM Watson team from its inception through its landmark Jeopardy success in 2011. Dr. Ferrucci’s more than 25 years in AI and his passion to see computers fluently think, learn, and communicate inspired him to found Elemental Cognition in 2015. Elemental Cognition is an AI company focused on deep natural language understanding. It explores methods of learning that result in explicable models of intelligence and cross-industry applications.   
+Bio: Dave Ferrucci is an award-winning Artificial Intelligence
+researcher who started and led the IBM Watson team from its inception
+through its landmark Jeopardy success in 2011. Dr. Ferrucci’s more
+than 25 years in AI and his passion to see computers fluently think,
+learn, and communicate inspired him to found Elemental Cognition in
+2015. Elemental Cognition is an AI company focused on deep natural
+language understanding. It explores methods of learning that result in
+explicable models of intelligence and cross-industry applications.  
 <p>
-  
-Dr. Ferrucci graduated from Rensselaer Polytechnic Institute with a Ph.D. in Computer Science. He has over 100 patents and publications. He is an IBM Fellow and has worked at IBM Research and Bridgewater Associates directing their AI research. He has keynoted at highly distinguished venues around the world. Dr. Ferrucci serves as a member of the Connecticut Academy of Science and Engineering and an Adjunct Professor of Entrepreneurship and Innovation at the Kellogg School of Management at Northwestern University.   
+  Dr. Ferrucci graduated from Rensselaer Polytechnic Institute with a
+Ph.D. in Computer Science. He has over 100 patents and
+publications. He is an IBM Fellow and has worked at IBM Research and
+Bridgewater Associates directing their AI research. He has keynoted at
+highly distinguished venues around the world. Dr. Ferrucci serves as a
+member of the Connecticut Academy of Science and Engineering and an
+Adjunct Professor of Entrepreneurship and Innovation at the Kellogg
+School of Management at Northwestern University.  
 
 
 <h3 id="Kiela">Speaker: Douwe Kiela</h3>
