@@ -211,7 +211,7 @@ Bio: Mark Liberman is the Christopher H. Browne Professor of Linguistics at the 
 Language Technologies and Modern Languages, CMU
 
 <p>
-Diagnosis or early detectioin of the onset of dementia is important
+Diagnosis or early detection of the onset of dementia is important
 for interventions and planning for life-style changes.  Ideally, we
 would like to achieve accurate diagnosis based on samples of
 naturalistic language production, as well as samples ellicited using
