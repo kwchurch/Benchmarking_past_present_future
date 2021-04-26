@@ -228,6 +228,7 @@ University of Copenhagen
 <h3 id="Wu">Speakers: Hua Wu and Jing Liu</h3>
 <br>
 Baidu
+<br>
 <a href="https://wuhuanlp.github.io/">Hua Wu</a>
 <br>
 <a ref="https://www.machinereading.ai/">Jing Liu</a>
