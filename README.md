@@ -38,7 +38,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
  </ol> </li>
 <li>Present
   <ol>
-<li>Ming Zhou</li>
+<li>Ming Zhou and Nan Duan (Microsoft Research Asia)</li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li>Neville Ryant </li>
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
