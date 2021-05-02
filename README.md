@@ -31,7 +31,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 
 <ol> <li>Past
   <ol>
-<li>John Makhoul </li>
+<li><a href="#Makhoul">John Makhoul</a></li>
 <li><a href="#Liberman">Mark Liberman</a></li>
 <li><a href="#Voorhees">Ellen Voorhees</a></li>
 <li><a href="#Mashey">John Mashey</a></li>
@@ -129,7 +129,7 @@ New York University
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
 
-<h3>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h3>
+<h4>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h4>
 
 Evaluation for many natural language understanding (NLU) tasks is broken: Unreliable and biased systems score so highly on standard benchmarks that there is little room for researchers who develop better systems to demonstrate their improvements. The recent trend to abandon IID benchmarks in favor of adversarially-constructed, out-of-distribution test sets ensures that current models will perform poorly, but ultimately only obscures the abilities that we want our benchmarks to measure. In this position paper, we lay out four criteria that we argue NLU benchmarks should meet. We argue most current benchmarks fail at these criteria, and that adversarial data collection does not meaningfully address the causes of these failures. Instead, restoring a healthy evaluation ecosystem will require significant progress in the design of benchmark datasets, the reliability with which they are annotated, their size, and the ways they handle social bias.
 
@@ -218,6 +218,15 @@ The current benchmarking paradigm in AI has many issues: benchmarks saturate qui
 <p>
 
 Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on natural language processing and multimodal reasoning and understanding. His work has mainly been focused on representation learning, grounded language learning and multi-agent communication. Recently, he has become interested in improving the way we evaluate AI systems.
+
+<h3 id="Makhoul">Speaker: John Makhoul</h3>
+
+<h4>Title: The Dawn of Benchmarking</h4>
+
+Benchmarking, or common evaluations, can be traced back to a speech recognition workshop in 1986 that pitted a knowledge- or rule-based method against an automatically trainable method on an evaluation task with a defined corpus.  The workshop was part of the DARPA Strategic Computing Program.  Deciding on an evaluation metric was a contentious issue that was settled soon after into the currently used word error rate.  Program managers at DARPA continued to champion the idea of metrics-based common evaluations with defined training and test corpora and, by inviting international research groups to participate in these annual common evaluations, this benchmarking paradigm took hold and spread to other DARPA programs and internationally.  DARPA also provided seed funding for the establishment of the Linguistic Data Consortium, which was instrumental in making common corpora available to the world at large.
+
+<p>
+Bio: John Makhoul is a Chief Scientist at Raytheon BBN Technologies, Cambridge, MA, where he has been working on various aspects of speech and language processing, including speech analysis and synthesis, speech coding, speech recognition, speech enhancement, artificial neural networks, human-machine interaction using voice, optical character recognition, machine translation, and cross-lingual information retrieval.  He is a Fellow of the IEEE, the International Speech Communication Association (ISCA), and the Acoustical Society of America.  Makhoul is the recipient of the ISCA medal and several IEEE awards, including the Flanagan medal in speech and audio processing.
 
 <h3 id="Liberman">Speaker: Mark Liberman</h3>
 
