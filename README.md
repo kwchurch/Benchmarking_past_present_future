@@ -40,7 +40,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
   <ol>
 <li> Nan Duan (Microsoft Research Asia), Qi Zhang(Fudan University), Ming Zhou (Sinovation Ventures)</li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
-<li>Neville Ryant </li>
+<li><a href="#Ryant">Neville Ryant</a></li>
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
@@ -339,6 +339,33 @@ where he is was originator of the phrase “Big Data” (according to NY Times).
 He later consulted for venture capitalists, advised startups and occasionally consulted for companies like Nvidia. He is a 20-year Trustee at the Computer History Museum.
 He was one of the 4 cofounders of the SPEC benchmarking group in 1988 and was asked in 2018 to advise the MLperf benchmarking group on relevant statistics.
 
+<h3 id="Ryant">Speaker: Neville Ryant</h3>
+Linguistic Data Consortium, University of Pennsylvania
+<p>
+<h4>Title: Benchmarking for diarization. Lessons from the DIHARD evaluation series</h4>
+
+
+Recently, there has been renewed interest in speaker diarization --
+that is, the task of determining “who spoke when” in a recording. With
+this renewed interest has come major improvements in system
+performance with error rates for the DIHARD challenge falling by 33%
+in the span of 4 years. However, despite these successes, the goal of
+truly robust diarization which is resilient to the full range of
+natural variation in recordings (e.g., conversational domain,
+recording equipment, reverberation, ambient noise) remains elusive. In
+this talk we will review the evolution of the state-of-the-art on
+multiple domains from the DIHARD dataset as well as some challenges we
+have encountered in attempting to construct a representative
+diarization benchmark.
+<p>
+
+Bio: Neville Ryant is a researcher at the Linguistic Data Consortium (LDC) at the University of Pennsylvania, where he has worked on many topics in speech recognition including: forced alignment, speech activity detection, large scale corpus linguistics, computational paralinguistics, and automated analysis of tone. Since 2017, he has been the principal organizer of the DIHARD challenge, the most recent iteration of which (DIHARD III) completed in December 2020.
+
+<h3 id=Sogaard>Speaker: Anders Søgaard</h3>
+University of Copenhagen
+<br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
+
+<h4>Title: Ways to Make Your Data More Relevant</h4>
 
 <h3 id="Voorhees">Speaker: Ellen Voorhees</h3>
 <br><a href="https://trec.nist.gov">National Institute of Standards and Technology</a>
@@ -352,13 +379,6 @@ This talk will use TREC tracks as case studies to explore the benefits and disad
 <p> Bio: Ellen Voorhees is a Senior Research Scientist at the US National Institute of Standards and Technology (NIST).  Her primary responsibility at NIST is to manage the Text REtrieval Conference (TREC) project, a project that develops the infrastructure required for large-scale evaluation of search engines and other information access technology.  Voorhees' research focuses on developing and validating appropriate evaluation schemes to measure system effectiveness for diverse user tasks.
 <p>
 Voorhees is a fellow of the ACM and an inaugural member of the ACM SIGIR Academy.   She has published numerous articles on information retrieval techniques and evaluation methodologies and serves on the review boards of several journals and conferences.
-
-
-<h3 id=Sogaard>Speaker: Anders Søgaard</h3>
-University of Copenhagen
-<br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
-
-<h4>Title: Ways to Make Your Data More Relevant</h4>
 
 
 <h3 id="Wu">Speakers: Hua Wu and Jing Liu</h3>
