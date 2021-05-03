@@ -44,7 +44,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
-<li>Eunsol Choi</li>
+<li><a href="#Choi">Eunsol Choi</a></li>
 <li><a href="#Sogaard">Anders Søgaard</a></li>
    </ol> </li>
 <li> Future
@@ -135,6 +135,35 @@ Evaluation for many natural language understanding (NLU) tasks is broken: Unreli
 
 <p>
 Bio: Sam Bowman has been on the faculty at NYU since 2016, when he completed PhD with Chris Manning and Chris Potts at Stanford. At NYU, he is a member of the Center for Data Science, the Department of Linguistics, and Courant Institute's Department of Computer Science. His research focuses on data, evaluation techniques, and modeling techniques for sentence and paragraph understanding in natural language processing, and on applications of machine learning to scientific questions in linguistic syntax and semantics. He is the senior organizer behind the GLUE and SuperGLUE benchmark competitions; he organized a twenty-three-person research team at JSALT 2018; and he received a 2015 EMNLP Best Resource Paper Award, a 2019 *SEM Best Paper Award, and a 2017 Google Faculty Research Award.
+
+<h3 id="Choi">Speaker: Eunsol Choi</h3>
+<h4>Title: Context for Interpreting Benchmark Performances</h4>
+
+Interpreting benchmark results requires a more nuanced study than
+simply comparing a single number (e.g., accuracy). For example, higher
+performance on benchmark focusing on multi-hop reasoning does not
+translate to model architecture focusing on multi-hop reasoning but
+often a bigger pretrained model. In the first half of the talk, I will
+discuss the nuances of interpreting benchmark results, and our
+previous efforts in integrating highly relevant axis, computational
+resources, into evaluation. In the second half of the talk, I will
+talk about the issues with the static benchmarks in the evolving
+world. Unlike traditional benchmarks which mostly targeted linguistic
+knowledge, modern benchmark embraces common sense, social context, and
+encyclopedic world knowledge into the task definition. All these
+components change over time, urging NLP benchmarks to be refreshed.
+<p>
+
+Bio: Eunsol Choi is an assistant professor in the computer science
+department at the University of Texas at Austin. Her research focuses
+on natural language processing, various ways to recover semantics from
+unstructured text. Prior to UT, she was a visiting faculty researcher
+at Google AI. She received a Ph.D. from the University of Washington
+(with Luke Zettlemoyer and Yejin Choi) and an undergraduate degree in
+mathematics and computer science from Cornell University. She is a
+recipient Facebook Research Fellowship, Google Research Award and has
+co-organized many workshops related to question answering at NLP and
+ML venues.
 
 <h3 id="Diamos">Speakers: Greg Diamos, Peter Mattson and David Kanter</h3>
 <br>
