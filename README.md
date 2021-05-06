@@ -192,7 +192,7 @@ He holds a Ph.D. in electrical engineering from the Georgia Institute of Technol
 <br>
 Nan Duan (Microsoft Research Asia)
 <br>
-Qi Zhang(Fudan University)
+Qi Zhang (Fudan University)
 <br>
 Ming Zhou (Sinovation Ventures) 
 
