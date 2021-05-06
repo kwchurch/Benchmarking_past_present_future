@@ -187,7 +187,7 @@ scheduling system to the NVIDIA Volta GPU.
 He holds a Ph.D. in electrical engineering from the Georgia Institute of Technology.
 
 
-<h3 id="Ming">Speakers:Nan Duan, Qi Zhang and Ming Zhou</h3>
+<h3 id="Ming">Speakers: Nan Duan, Qi Zhang and Ming Zhou</h3>
 
 <br>
 Nan Duan (Microsoft Research Asia)
