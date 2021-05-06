@@ -38,7 +38,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
  </ol> </li>
 <li>Present
   <ol>
-<li> Nan Duan (Microsoft Research Asia), Qi Zhang(Fudan University), Ming Zhou (Sinovation Ventures)</li>
+<li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li><a href="#Ryant">Neville Ryant</a></li>
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
@@ -185,6 +185,28 @@ Precision training systems. Greg contributed the independent thread
 scheduling system to the NVIDIA Volta GPU.
 <p>
 He holds a Ph.D. in electrical engineering from the Georgia Institute of Technology.
+
+
+<h3 id="Ming">Speakers:Nan Duan, Qi Zhang and Ming Zhou</h3>
+
+<br>
+Nan Duan (Microsoft Research Asia)
+<br>
+Qi Zhang(Fudan University)
+<br>
+Ming Zhou (Sinovation Ventures) 
+
+<h4> Title: Really Reaching Human Parity? --Addressing NLP Benchmark Issues on Robustness, Constraint, Bias and Evaluation Metrics</h4>
+
+We use Machine Reading Comprehension as an example to recap the
+current status of NLP benchmarks and highlight four key issues with
+the existing benchmarks including (1) lack of robustness testing on
+the new independent (but similar) dataset or adversarial inputs, (2)
+strong constraints on experimental conditions, (3) bias brought by
+data sampling or human annotation, and (4) lack of suitable evaluation
+metrics. Then we present our thoughts and experiments on the possible
+solutions to these challenges from various aspects.
+
 
 <h3 id="Ferrucci">Speaker: Dave Ferrucci</h3>
 Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
