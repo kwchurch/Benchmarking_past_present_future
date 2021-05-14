@@ -22,7 +22,7 @@ We have an amazing collection of invited speakers that can share with us first h
   <li> May 5, 2021: Paper submission (<b>new</b>)</li>
   <li>  May 28, 2021: Notification of acceptance </li>
   <li>  June 7, 2021: Camera-ready papers due </li>
-  <li>  August 5-6, 2021: Workshop dates </li>
+  <li>  August 5, 2021: Workshop date </li>
   </ul>
 
 <h2>Invited Speakers</h2> 
