@@ -166,11 +166,13 @@ co-organized many workshops related to question answering at NLP and
 ML venues.
 
 <h3 id="Dagan">Speaker: Ido Dagan</h3>
-<h4>Title: Moving out of the comfort zones: desired shifts in NLP benchmarking</h4>
+
 <br>
 Bar-Ilan University 
 <br>
 <a href="https://u.cs.biu.ac.il/~dagan/">https://u.cs.biu.ac.il/~dagan</a>
+<p>
+<h4>Title: Moving out of the comfort zones: desired shifts in NLP benchmarking</h4>
 <p>
 As the deep-learning era has transformed the NLP field, benchmarking
 practices haven’t changed that much, often addressing earlier language
