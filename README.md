@@ -51,7 +51,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
   <ol>
 <li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
 <li><a href="#Ferrucci">Dave Ferrucci</a></li>
-<li>Ido Dagan </li>
+<li><a href="#Dagan">Ido Dagan</a></li>
   </ol> </li>
 </ol>
 
@@ -164,6 +164,73 @@ mathematics and computer science from Cornell University. She is a
 recipient Facebook Research Fellowship, Google Research Award and has
 co-organized many workshops related to question answering at NLP and
 ML venues.
+
+<h3 id="Dagan">Speaker: Ido Dagan</h3>
+<h4>Title: Moving out of the comfort zones: desired shifts in NLP benchmarking</h4>
+<br>
+Bar-Ilan University 
+<br>
+<a href="https://u.cs.biu.ac.il/~dagan/">https://u.cs.biu.ac.il/~dagan</a>
+<p>
+As the deep-learning era has transformed the NLP field, benchmarking
+practices haven’t changed that much, often addressing earlier language
+analysis tasks and applications. While performance on many benchmarks
+rocketed, mostly in deep learning comfort zones, profound language
+technology is still a long way ahead. In this talk, I will argue for
+three desired interrelated shifts in NLP benchmarking, which motivate
+and support each other, that should direct further research.
+<p>
+First, much more emphasis should be given to typical realistic
+settings, in which large training data for the target task is not
+available, like few-shot and transfer learning. Moreover, benchmarks
+design should fit realistic data compositions, rather than synthetic
+ones within the comfort zone, as I will illustrate by a recent
+few-shot relation classification dataset. Second, recognizing the
+limits of foreseeable fully-automated methods in addressing the hard
+NLP challenges, I suggest developing principled evaluation
+methodologies for various interactive NLP settings. Interaction may
+lead to better results, with the help of a human in the loop, and
+moreover allow personalized and explorative behavior, as I will
+demonstrate with a recent framework for evaluating interactive
+summarization. Lastly, while many current models operate in an
+end-to-end manner over implicit language structures, I argue that it
+is pertinent to pursue also explicit representations for textual
+information structure, to facilitate refined and better-controlled
+modeling. Unlike traditional semantic formalisms, I propose pursuing
+semi-structured representations, consisting of natural language
+expressions over which current powerful text-embeddings can be
+applied. I will illustrate this direction by an approach for
+decomposing the information in single and multiple texts into sets of
+question-answer pairs, and draw some analogies from our successful
+experience in designing the Recognizing Textual Entailment (RTE, later
+aka NLI) task.
+<p>
+Bio: 
+Ido Dagan is a Professor at the Department of Computer Science at
+Bar-Ilan University, Israel, the founder of the Natural Language
+Processing (NLP) Lab at Bar-Ilan, the founder and head of the
+nationally-funded Bar-Ilan University Data Science Institute and a
+Fellow of the Association for Computational Linguistics (ACL). His
+interests are in applied semantic processing, focusing on textual
+inference, natural open semantic representations, consolidation and
+summarization of multi-text information, and interactive text
+summarization. Dagan and colleagues initiated textual entailment
+recognition (RTE, later aka NLI) as a generic empirical task. He was
+the President of the ACL in 2010 and served on its Executive Committee
+during 2008-2011. In that capacity, he led the establishment of the
+journal Transactions of the Association for Computational Linguistics,
+which became one of two premiere journals in NLP. Dagan received his
+B.A. summa cum laude and his Ph.D. (1992) in Computer Science from the
+Technion. He was a research fellow at the IBM Haifa Scientific Center
+(1991) and a Member of Technical Staff at AT&T Bell Laboratories
+(1992-1994). During 1998-2003 he was co-founder and CTO of FocusEngine
+and VP of Technology of LingoMotors, and has been regularly consulting
+in the industry. His academic research has involved extensive
+industrial collaboration, including funds from IBM, Google,
+Thomson-Reuters, Bloomberg, Intel and Facebook, as well as
+collaboration with local companies under funded projects of the Israel
+Innovation Authority.
+
 
 <h3 id="Diamos">Speakers: Greg Diamos, Peter Mattson and David Kanter</h3>
 <br>
