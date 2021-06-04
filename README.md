@@ -485,7 +485,13 @@ Bio: Neville Ryant is a researcher at the Linguistic Data Consortium (LDC) at th
 University of Copenhagen
 <br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
 
-<h4>Title: Ways to Make Your Data More Relevant</h4>
+<h4>Title: 5 Ways to Make Your Data More Relevant</h4>
+
+This talk briefly summarizes works I’ve been involved in that propose
+improvements to how we evaluate our models, e.g., presenting sampling
+strategies that better simulate real-life scenarios. The talk will be
+a sort of self help talk with simple, practical advice for how to add
+value to your existing data.
 
 <h3 id="Voorhees">Speaker: Ellen Voorhees</h3>
 <br><a href="https://trec.nist.gov">National Institute of Standards and Technology</a>
