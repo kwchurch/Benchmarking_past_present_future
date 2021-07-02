@@ -42,7 +42,6 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li><a href="#Ryant">Neville Ryant</a></li>
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
-<li><a href="#Bowman">Samuel Bowman</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
 <li><a href="#Choi">Eunsol Choi</a></li>
 <li><a href="#Sogaard">Anders Søgaard</a></li>
@@ -52,6 +51,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 <li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
 <li><a href="#Ferrucci">Dave Ferrucci</a></li>
 <li><a href="#Dagan">Ido Dagan</a></li>
+    <li><a href="#Bowman">Samuel Bowman</a></li>
   </ol> </li>
 </ol>
 
