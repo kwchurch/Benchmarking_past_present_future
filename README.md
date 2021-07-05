@@ -1,6 +1,6 @@
 <html>
   <body>
-<h1>Workshop Home Page for Benchmarking: Past, Present and Future</h1>
+<h1>Home Page for ACL-2021 Workshop on Benchmarking: Past, Present and Future (BPPF)</h1>
 
 Where have we been, and where are we going?  It is easier to talk about the past than the future. These days,
 benchmarks evolve more bottom up (such as <a href="https://paperswithcode.com/">papers with code</a>). There used to
@@ -19,9 +19,9 @@ We have an amazing collection of invited speakers that can share with us first h
 <h2>Important Dates</h2>
 
 <ul>
-  <li> May 5, 2021: Paper submission (<b>new</b>)</li>
-  <li>  May 28, 2021: Notification of acceptance </li>
-  <li>  June 7, 2021: Camera-ready papers due </li>
+  <li> <del>May 5, 2021</del>: Paper submission</li>
+  <li>  <del>May 28, 2021</del>: Notification of acceptance </li>
+  <li>  <del>June 7, 2021</del>: Camera-ready papers due </li>
   <li>  August 5, 2021: Workshop date </li>
   </ul>
 
