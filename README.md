@@ -55,6 +55,99 @@ We have an amazing collection of invited talks, many with direct first-hand know
   </ol> </li>
 </ol>
 
+       <h2>Draft Schedule</h2>
+
+
+    All talks will be pre-recorded in advance, and posted by the end of July.
+<p>
+    In addition, there will be 5 Q&A sessions via Zoom in a single
+    plenary session.  It is hoped that most speakers (and the
+    audience) will have seen the pre-recorded talks before the live
+    Zooom sessions, so the Zoom sessions will have more back and forth
+    discussion, and will not digress into individual talks.  
+<p>
+    These times are local to New York.
+
+    <ol>
+      <li> <a href="#S1">Session 1</a> (7AM): Convenient for Asia + Europe (bonus session) </li>
+      <li> <a href="#S2">Session 2</a> (9AM): Convenient for America + Europe (Present 1) </li>
+      <li> <a href="#S3">Session 3</a> (11AM): Convenient for America + Europe (Past) </li>
+      <li> <a href="#S4">Session 4</a> (1PM): Convenient for America + Europe (Future) </li>
+      <li> <a href="#S5">Session 5</a> (9PM): Convenient for America + Asia (Present 2) </li>
+    </ol>
+
+    <table border=1>
+      <tr><th>Session</th> <th> New York </th> <th> Berlin </th> <th> Beijing </th> </tr>
+      <tr> <td> <a href="#S1">Session 1</a> </td> <td> 7AM Aug 5 </td>  <td> 1PM Aug 5</td>  <td> 7PM Aug 5 </td>  </tr>
+      <tr> <td> <a href="#S2">Session 2</a> </td> <td> 9AM Aug 5 </td>  <td> 3PM Aug 5</td>  <td> 9PM Aug 5</td>  </tr>
+      <tr> <td> <a href="#S3">Session 3</a> </td> <td> 11AM Aug 5 </td>  <td> 5PM Aug 5</td>  <td> 11PM Aug 5</td>  </tr>
+      <tr> <td> <a href="#S4">Session 4</a> </td> <td> 3PM Aug 5</td>  <td> 11PM Aug 5</td>  <td> 3AM Aug 6</td>  </tr>
+      <tr> <td> <a href="#S5">Session 5</a> </td> <td> 9PM Aug 5</td>  <td> 3AM Aug 6</td>  <td> 9AM Aug 6</td>  </tr>
+      </table>
+
+
+    <h2>Assignments of speakers to sessions</h2>
+
+    Speakers for submitted papers can choose to participate in any of
+    the 5 sessions.
+<p>
+    Invited speakers will be assigned to at least one regular session
+    (Sessions 2-5).  In addition, there will be a bonus session (Session 1).
+<p>
+    The bonus session is intended to correct for a bias in favor of
+    America.  The speakers in the bonus session will attend two
+    sesssions, one that is convenient for timezones in America, plus
+    one that is convenient for timezones elsewhere.
+
+    <ol>
+      <li id="S1"> Session 1 (7AM): Convenient for Asia + Europe (bonus session) </li>
+      <ol>
+	Moderators: Valia Kordoni
+	<li>Nan Duan, Qi Zhang and Ming Zhou</li>
+	<li>Hua Wu and Jing Liu</li>
+	<li>Brian MacWhinney and Saturnino Luz</li>
+	<li>Anders Søgaard</li>
+	</ol>
+
+	<li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
+      <ol>
+	Moderator: Mark Liberman
+	<li>Brian MacWhinney and Saturnino Luz</li>
+	<li>Douwe Kiela</li>
+	<li>Anders Søgaard</li>
+	</ol>
+
+      <li id="S3"> Session 3 (11AM): Convenient for America + Europe (Past) </li>
+      <ol>
+	Moderator: Henry Kautz
+	<li>John Makhoul</li>
+	<li>Mark Liberman</li>
+	<li>Ellen Voorhees</li>
+	<li>John Mashey</li>
+	</ol>
+
+
+      <li id="S4"> Session 4 (3PM): Convenient for America + Europe (Future) </li>
+      <ol>
+	Moderator: Ken Church
+	<li>Greg Diamos, Peter Mattson and David Kanter</li>
+	<li>Dave Ferrucci</li>
+	<li>Ido Dagan</li>
+	<li>Samuel Bowman</li>
+	</ol>
+
+      <li id="S4"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
+      <ol>
+	Moderator: Ellen Voorhees
+	<li>Nan Duan, Qi Zhang and Ming Zhou</li>
+	<li>Hua Wu and Jing Liu</li>
+	<li>Neville Ryant</li>
+	<li>Eunsol Choi</li>
+	</ol>
+
+    </ol>
+    
+    
 
 <h2>Submissions</h2>
 
