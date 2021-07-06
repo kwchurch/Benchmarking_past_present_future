@@ -96,53 +96,56 @@ America.  The speakers in the bonus session will attend two
 sesssions, one that is convenient for timezones in America, plus
 one that is convenient for timezones elsewhere.
 
+
 <ol>
   <li id="S1"> Session 1 (7AM): Convenient for Asia + Europe (bonus session) </li>
   <ol>
     Moderators: Valia Kordoni
-    <li>Nan Duan, Qi Zhang and Ming Zhou</li>
-    <li>Hua Wu and Jing Liu</li>
-    <li>Brian MacWhinney and Saturnino Luz</li>
-    <li>Anders Søgaard</li>
+    <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
+    <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
+    <li><a href="#MacWhinney>Brian MacWhinney and Saturnino Luz</a></li>
+    <li><a href="#Sogaard">Anders Søgaard</a></li>
   </ol>
 
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
   <ol>
     Moderator: Mark Liberman
-    <li>Brian MacWhinney and Saturnino Luz</li>
-    <li>Douwe Kiela</li>
-    <li>Anders Søgaard</li>
+<li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
+<li><a href="#Kiela">Douwe Kiela</a> </li>
+    <li><a href="#Sogaard">Anders Søgaard</a></li>
   </ol>
 
   <li id="S3"> Session 3 (11AM): Convenient for America + Europe (Past) </li>
   <ol>
     Moderator: Henry Kautz
-    <li>John Makhoul</li>
-    <li>Mark Liberman</li>
-    <li>Ellen Voorhees</li>
-    <li>John Mashey</li>
+<li><a href="#Makhoul">John Makhoul</a></li>
+<li><a href="#Liberman">Mark Liberman</a></li>
+<li><a href="#Voorhees">Ellen Voorhees</a></li>
+<li><a href="#Mashey">John Mashey</a></li>
   </ol>
 
 
 <li id="S4"> Session 4 (3PM): Convenient for America + Europe (Future) </li>
 <ol>
   Moderator: Ken Church
-  <li>Greg Diamos, Peter Mattson and David Kanter</li>
-  <li>Dave Ferrucci</li>
-  <li>Ido Dagan</li>
-  <li>Samuel Bowman</li>
+<li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
+<li><a href="#Ferrucci">Dave Ferrucci</a></li>
+<li><a href="#Dagan">Ido Dagan</a></li>
+<li><a href="#Bowman">Samuel Bowman</a></li>
 </ol>
 
   <li id="S4"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
   <ol>
     Moderator: Ellen Voorhees
-    <li>Nan Duan, Qi Zhang and Ming Zhou</li>
-    <li>Hua Wu and Jing Liu</li>
-    <li>Neville Ryant</li>
-    <li>Eunsol Choi</li>
+<li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
+<li><a href="#Wu">Hua Wu and Jing Liu</a></li>
+<li><a href="#Ryant">Neville Ryant</a></li>
+<li><a href="#Choi">Eunsol Choi</a></li>
   </ol>
 
 </ol>
+    
+
     
  
 
