@@ -76,12 +76,12 @@ These times are local to New York.
 </ol>
 
 <table border=1>
-  <tr><th>Session</th> <th> New York </th> <th> Berlin </th> <th> Beijing </th> </tr>
-  <tr> <td> <a href="#S1">Session 1</a> </td> <td> 7AM Aug 5 </td>  <td> 1PM Aug 5</td>  <td> 7PM Aug 5 </td>  </tr>
-  <tr> <td> <a href="#S2">Session 2</a> </td> <td> 9AM Aug 5 </td>  <td> 3PM Aug 5</td>  <td> 9PM Aug 5</td>  </tr>
-  <tr> <td> <a href="#S3">Session 3</a> </td> <td> 11AM Aug 5 </td>  <td> 5PM Aug 5</td>  <td> 11PM Aug 5</td>  </tr>
-  <tr> <td> <a href="#S4">Session 4</a> </td> <td> 3PM Aug 5</td>  <td> 11PM Aug 5</td>  <td> 3AM Aug 6</td>  </tr>
-  <tr> <td> <a href="#S5">Session 5</a> </td> <td> 9PM Aug 5</td>  <td> 3AM Aug 6</td>  <td> 9AM Aug 6</td>  </tr>
+  <tr><th>Session</th> <th> New York </th> <th> San Francisco</th> <th> Berlin </th> <th> Beijing </th> </tr>
+  <tr> <td> <a href="#S1">Session 1</a> </td> <td> 7AM Aug 5 </td>  <td> 4AM Aug 5</td> <td> 1PM Aug 5</td>  <td> 7PM Aug 5 </td>  </tr>
+  <tr> <td> <a href="#S2">Session 2</a> </td> <td> 9AM Aug 5 </td>  <td> 6AM Aug 5</td> <td> 3PM Aug 5</td>  <td> 9PM Aug 5</td>  </tr>
+  <tr> <td> <a href="#S3">Session 3</a> </td> <td> 11AM Aug 5 </td>  <td> 8AM Aug 5</td> <td> 5PM Aug 5</td>  <td> 11PM Aug 5</td>  </tr>
+  <tr> <td> <a href="#S4">Session 4</a> </td> <td> 3PM Aug 5</td>  <td> noon Aug 5</td> <td> 11PM Aug 5</td>  <td> 3AM Aug 6</td>  </tr>
+  <tr> <td> <a href="#S5">Session 5</a> </td> <td> 9PM Aug 5</td>  <td> 6PM Aug 5</td> <td> 3AM Aug 6</td>  <td> 9AM Aug 6</td>  </tr>
 </table>
 
 
