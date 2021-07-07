@@ -139,6 +139,7 @@ one that is convenient for timezones elsewhere.
 <li><a href="#Ferrucci">Dave Ferrucci</a></li>
 <li><a href="#Dagan">Ido Dagan</a></li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
+      <li><a href="#Choi">Eunsol Choi</a></li>
 </ol>
 
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
@@ -147,7 +148,7 @@ one that is convenient for timezones elsewhere.
 <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li><a href="#Ryant">Neville Ryant</a></li>
-<li><a href="#Choi">Eunsol Choi</a></li>
+
   </ol>
 
 </ol>
