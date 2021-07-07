@@ -62,7 +62,7 @@ All talks (invited and submitted) will be pre-recorded in advance, and posted by
 In addition, there will be 5 Q&A sessions via Zoom in a single
 plenary session.  It is hoped that most speakers (and the
 audience) will have seen the pre-recorded talks before the live
-Zooom sessions, so the Zoom sessions will have more back and forth
+Zoom sessions, so the Zoom sessions will have more back and forth
 discussion, and will not digress into individual talks.  
 <p>
 These times are local to New York.
