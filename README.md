@@ -562,6 +562,8 @@ He was one of the 4 cofounders of the SPEC benchmarking group in 1988 and was as
 
 <h3 id="Ryant">Speaker: Neville Ryant</h3>
 Linguistic Data Consortium, University of Pennsylvania
+      <br>
+      <a href="https://dihardchallenge.github.io/dihard3/">DIHARD</a>
 <p>
 <h4>Title: Benchmarking for diarization. Lessons from the DIHARD evaluation series</h4>
 
