@@ -57,7 +57,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 
    <h2>Draft Schedule</h2>
 
-All talks will be pre-recorded in advance, and posted by the end of July.
+All talks (invited and submitted) will be pre-recorded in advance, and posted by the end of July.
 
 In addition, there will be 5 Q&A sessions via Zoom in a single
 plenary session.  It is hoped that most speakers (and the
@@ -84,9 +84,16 @@ These times are local to New York.
   <tr> <td> <a href="#S5">Session 5</a> </td> <td> 9PM Aug 5</td>  <td> 6PM Aug 5</td> <td> 3AM Aug 6</td>  <td> 9AM Aug 6</td>  </tr>
 </table>
 
-
-Speakers for submitted papers can choose to participate in any of
-the 5 sessions.
+Speakers for the following submitted papers can choose to participate in any of the 5 zoom sessions:
+<ol>
+  <li>
+Victor Petrén Bach Hansen and Anders Søgaard <br>
+<i>Guideline Bias in Wizard-of-Oz Dialogues</i> </li>
+  <li>Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
+Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation</i></li>
+<li>Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
+    How Might We Create Better Benchmarks for Speech Recognition?</i></li>
+</ol>
 <p>
 Invited speakers will be assigned to at least one regular session
 (Sessions 2-5).  In addition, there will be a bonus session (Session 1).
@@ -100,7 +107,7 @@ one that is convenient for timezones elsewhere.
 <ol>
   <li id="S1"> Session 1 (7AM): Convenient for Asia + Europe (bonus session) </li>
   <ol>
-    Moderators: Valia Kordoni
+    Moderator: Valia Kordoni
     <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
     <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
     <li><a href="#MacWhinney>Brian MacWhinney and Saturnino Luz</a></li>
@@ -134,7 +141,7 @@ one that is convenient for timezones elsewhere.
 <li><a href="#Bowman">Samuel Bowman</a></li>
 </ol>
 
-  <li id="S4"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
+  <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
   <ol>
     Moderator: Ellen Voorhees
 <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
