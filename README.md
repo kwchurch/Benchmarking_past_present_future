@@ -71,7 +71,7 @@ These times are local to New York.
   <li> <a href="#S1">Session 1</a> (7AM): Convenient for Asia + Europe (bonus session) </li>
   <li> <a href="#S2">Session 2</a> (9AM): Convenient for America + Europe (Present 1) </li>
   <li> <a href="#S3">Session 3</a> (11AM): Convenient for America + Europe (Past) </li>
-  <li> <a href="#S4">Session 4</a> (1PM): Convenient for America + Europe (Future) </li>
+  <li> <a href="#S4">Session 4</a> (3PM): Convenient for America + Europe (Future) </li>
   <li> <a href="#S5">Session 5</a> (9PM): Convenient for America + Asia (Present 2) </li>
 </ol>
 
