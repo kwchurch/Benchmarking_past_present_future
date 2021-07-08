@@ -107,7 +107,7 @@ one that is convenient for timezones elsewhere.
 <ol>
   <li id="S1"> Session 1 (7AM): Convenient for Asia + Europe (bonus session) </li>
   <ol>
-    Moderator: Valia Kordoni
+    Moderators: Hang Li and Valia Kordoni
     <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
     <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
     <li><a href="#MacWhinney>Brian MacWhinney and Saturnino Luz</a></li>
