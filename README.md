@@ -31,7 +31,7 @@ We have an amazing collection of invited talks, many with direct first-hand know
 
 <ol> <li>Past
   <ol>
-<li><a href="#Makhoul">John Makhoul</a></li>
+<li><a href="#Makhoul">John Makhoul</a> </li>
 <li><a href="#Liberman">Mark Liberman</a></li>
 <li><a href="#Voorhees">Ellen Voorhees</a></li>
 <li><a href="#Mashey">John Mashey</a></li>
@@ -441,7 +441,8 @@ The current benchmarking paradigm in AI has many issues: benchmarks saturate qui
 Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on natural language processing and multimodal reasoning and understanding. His work has mainly been focused on representation learning, grounded language learning and multi-agent communication. Recently, he has become interested in improving the way we evaluate AI systems.
 
 <h3 id="Makhoul">Speaker: John Makhoul</h3>
-
+<a href="https://www.youtube.com/watch?v=OMBZ7NV6Hck">pre-recorded talk</a>
+      
 <h4>Title: The Dawn of Benchmarking</h4>
 
 Benchmarking, or common evaluations, can be traced back to a speech recognition workshop in 1987 that pitted a knowledge- or rule-based method against an automatically trainable method on an evaluation task with a defined corpus.  The workshop was part of the DARPA Strategic Computing Program.  Deciding on an evaluation metric was a contentious issue that was settled soon after into the currently used word error rate.  Program managers at DARPA continued to champion the idea of metrics-based common evaluations with defined training and test corpora and, by inviting international research groups to participate in these annual common evaluations, this benchmarking paradigm took hold and spread to other DARPA programs and internationally.  DARPA also provided seed funding for the establishment of the Linguistic Data Consortium, which was instrumental in making common corpora available to the world at large.
