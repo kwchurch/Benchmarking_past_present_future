@@ -366,7 +366,7 @@ Qi Zhang (Fudan University)
 <br>
 Ming Zhou (Sinovation Ventures) 
 
-<h4> Title: Really Reaching Human Parity? --Addressing NLP Benchmark Issues on Robustness, Constraint, Bias and Evaluation Metrics</h4>
+<h4> Title: Really Reaching Human Parity? –Addressing Benchmark Issues on Robustness, Bias and Metrics</h4>
 
 We use Machine Reading Comprehension as an example to recap the
 current status of NLP benchmarks and highlight four key issues with
@@ -377,6 +377,41 @@ data sampling or human annotation, and (4) lack of suitable evaluation
 metrics. Then we present our thoughts and experiments on the possible
 solutions to these challenges from various aspects.
 
+<p>
+Bios:
+<p>
+Nan DUAN is currently a principal researcher & research manager at
+Microsoft Research Asia. He is also an adjunct professor at Tianjin
+University. His research interests include question answering,
+semantic parsing, large-scale pre-trained models, code intelligence
+and machine reasoning. He served as evaluation chair of NLPCC and SAC
+or AC of ACL/EMNLP/NAACL. He leads the benchmark dataset efforts such
+as XGLUE and CodeXGLUE. He published 100+ research papers and holds
+10+ patents. His research has been applied in many Microsoft products.
+<p>
+ 
+Qi Zhang is a professor in the school of computer science at the Fudan
+University.  His Dr. degree in Computer Science was received from
+Fudan Univerisity, in 2009. From January 2005 to January 2006, he
+served as a Research Intern at the Bosch Research and Technology
+Center, Palo Alto, USA. Since April 2009, he has been with the School
+of Computer Science, Fudan University. His research focuses on natural
+language processing and information retrieval. He is a recipient IBM
+faculty Award and ACM Shanghai Rising Star Award.
+<p>
+
+Ming Zhou is the Chief Scientist of Sinovation Ventures AI
+Institute. Before joining Sinovation Ventures in the end of 2020,
+Dr. Zhou was the Assistant Managing Director at Microsoft Research
+Asia (MSRA). He was the president of ACL in 2019. He is vice president
+of China Computer Federation (CCF) and steering committee member of
+Chinese Information Processing Society of China (CIPS). His research
+interests are advancing NLP technologies and applications with the
+support of big data, knowledge graph and domain modellings. He was the
+inventor of China’s first Chinese-English machine translation (CEMT-1,
+1989) and the most famous Chinese-Japanese machine translation
+products(J-Beijing,1998). He has published over 220 papers at top NLP
+and AI conferences including over 80 papers at ACL over the years.
 
 <h3 id="Ferrucci">Speaker: Dave Ferrucci</h3>
 Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
