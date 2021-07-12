@@ -86,7 +86,7 @@ These times are local to New York.
 
 Speakers for the following submitted papers can choose to participate in any of the 5 zoom sessions:
 <ol>
-  <li>
+  <li id="Victor">
 Victor Petrén Bach Hansen and Anders Søgaard <br>
 <i>Guideline Bias in Wizard-of-Oz Dialogues</i> </li>
   <li>Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
@@ -120,6 +120,7 @@ one that is convenient for timezones elsewhere.
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
     <li><a href="#Sogaard">Anders Søgaard</a></li>
+    <li><a href="Victor">Victor Petrén Bach Hansen and Anders Søgaard</a></li>
   </ol>
 
   <li id="S3"> Session 3 (11AM): Convenient for America + Europe (Past) </li>
@@ -622,7 +623,7 @@ diarization benchmark.
 
 Bio: Neville Ryant is a researcher at the Linguistic Data Consortium (LDC) at the University of Pennsylvania, where he has worked on many topics in speech recognition including: forced alignment, speech activity detection, large scale corpus linguistics, computational paralinguistics, and automated analysis of tone. Since 2017, he has been the principal organizer of the DIHARD challenge, the most recent iteration of which (DIHARD III) completed in December 2020.
 
-<h3 id=Sogaard>Speaker: Anders Søgaard</h3>
+<h3 id="Sogaard">Speaker: Anders Søgaard</h3>
 University of Copenhagen
 <br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
 
