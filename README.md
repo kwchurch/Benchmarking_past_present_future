@@ -89,9 +89,9 @@ Speakers for the following submitted papers can choose to participate in any of 
   <li id="Victor">
 Victor Petrén Bach Hansen and Anders Søgaard <br>
 <i>Guideline Bias in Wizard-of-Oz Dialogues</i> </li>
-  <li>Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
+  <li id="Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
 Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation</i></li>
-<li>Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
+<li id="Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
     How Might We Create Better Benchmarks for Speech Recognition?</i></li>
 </ol>
 <p>
@@ -110,8 +110,9 @@ one that is convenient for timezones elsewhere.
     Moderators: Hang Li and Valia Kordoni
     <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
     <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
-    <li><a href="#MacWhinney>Brian MacWhinney and Saturnino Luz</a></li>
+    <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
     <li><a href="#Sogaard">Anders Søgaard</a></li>
+    <li><a href="#Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo Poesio and Alexandra Uma</a></li>
   </ol>
 
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
@@ -119,8 +120,8 @@ one that is convenient for timezones elsewhere.
     Moderator: Mark Liberman
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
-    <li><a href="#Sogaard">Anders Søgaard</a></li>
-    <li><a href="Victor">Victor Petrén Bach Hansen and Anders Søgaard</a></li>
+<li><a href="#Sogaard">Anders Søgaard</a></li>
+<li><a href="#Victor">Victor Petrén Bach Hansen and Anders Søgaard</a></li>
   </ol>
 
   <li id="S3"> Session 3 (11AM): Convenient for America + Europe (Past) </li>
