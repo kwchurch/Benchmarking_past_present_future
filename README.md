@@ -222,10 +222,11 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 
 
 <h2>Abstracts for Invited Talks</h2>
-<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">talk</a>
 
 
 <h3 id="Bowman">Speaker: Sam Bowman</h3>
+<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">talk</a>
+
 <br>
 New York University
 <br>
