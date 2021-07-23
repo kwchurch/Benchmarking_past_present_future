@@ -225,7 +225,6 @@ you have any questions, contact us at <a href = "mailto: pc-benchmarking-ws-acl2
 
 
 <h3 id="Bowman">Speaker: Sam Bowman</h3>
-<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">talk</a>
 
 <br>
 New York University
@@ -233,6 +232,8 @@ New York University
 <a href="https://cims.nyu.edu/~sbowman/">https://cims.nyu.edu/~sbowman/</a>
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
+<p>
+<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">talk</a>
 
 <h4>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h4>
 
