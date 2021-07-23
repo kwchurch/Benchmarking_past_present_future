@@ -233,7 +233,7 @@ New York University
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
 <p>
-<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">talk</a>
+<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️talk</a>
 
 <h4>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h4>
 
@@ -481,7 +481,7 @@ The current benchmarking paradigm in AI has many issues: benchmarks saturate qui
 Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on natural language processing and multimodal reasoning and understanding. His work has mainly been focused on representation learning, grounded language learning and multi-agent communication. Recently, he has become interested in improving the way we evaluate AI systems.
 
 <h3 id="Makhoul">Speaker: John Makhoul</h3>
-<a href="https://www.youtube.com/watch?v=OMBZ7NV6Hck">talk</a> <a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">slides</a>
+<a href="https://www.youtube.com/watch?v=OMBZ7NV6Hck">📽️ talk</a> <a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">slides</a>
       
 
       
