@@ -35,7 +35,7 @@ keynote</a>.
   <li>  <del>June 7, 2021</del>: Camera-ready papers due </li>
   <li>  July 31, 2021: Pre-recorded talks will be posted on YouTube and bilibili.
     🆕 A talks available now!  Look for 📽️</li>
-  <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github. (A few are already available.)</li>
+  <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 A few are already available.</li>
   <li>  August 5, 2021: Workshop date </li>
   </ul>
 
@@ -499,7 +499,7 @@ Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on nat
 <br>
 <a href="https://www.bilibili.com/video/BV1i54y1E7Xx">📽️ talk (hosted on: bilibili)</a>
 <br>
-<a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">🛝 slides</a>
+<a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">📔 slides</a>
 
 <h4>Title: The Dawn of Benchmarking</h4>
 
