@@ -484,7 +484,7 @@ Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on nat
 <a href="https://www.youtube.com/watch?v=OMBZ7NV6Hck">📽️ talk (YouTube)</a> 
 <a href="https://www.bilibili.com/video/BV1i54y1E7Xx>📽️ talk (bilibili)</a> 
 <a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">🛝 slides</a>
-      
+
 <h4>Title: The Dawn of Benchmarking</h4>
 
 Benchmarking, or common evaluations, can be traced back to a speech recognition workshop in 1987 that pitted a knowledge- or rule-based method against an automatically trainable method on an evaluation task with a defined corpus.  The workshop was part of the DARPA Strategic Computing Program.  Deciding on an evaluation metric was a contentious issue that was settled soon after into the currently used word error rate.  Program managers at DARPA continued to champion the idea of metrics-based common evaluations with defined training and test corpora and, by inviting international research groups to participate in these annual common evaluations, this benchmarking paradigm took hold and spread to other DARPA programs and internationally.  DARPA also provided seed funding for the establishment of the Linguistic Data Consortium, which was instrumental in making common corpora available to the world at large.
