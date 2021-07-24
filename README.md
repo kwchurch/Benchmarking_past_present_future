@@ -482,7 +482,7 @@ Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on nat
 
 <h3 id="Makhoul">Speaker: John Makhoul</h3>
 <a href="https://www.youtube.com/watch?v=OMBZ7NV6Hck">📽️ talk (YouTube)</a> 
-<a href="https://www.bilibili.com/video/BV1i54y1E7Xx>📽️ talk (bilibili)</a> 
+<a href="https://www.bilibili.com/video/BV1i54y1E7Xx">📽️ talk (bilibili)</a> 
 <a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">🛝 slides</a>
 
 <h4>Title: The Dawn of Benchmarking</h4>
