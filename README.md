@@ -102,7 +102,7 @@ Speakers for the following submitted papers can choose to participate in any of 
 <ol>
   <li id="Victor">
 Victor Petrén Bach Hansen and Anders Søgaard <br>
-<i>Guideline Bias in Wizard-of-Oz Dialogues
+<i>Guideline Bias in Wizard-of-Oz Dialogues<br>
 <a href="https://www.youtube.com/watch?v=agPS2EibMJ0">📽️ talk (hosted on: YouTube)</a>
 </i> </li>
   <li id="Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
