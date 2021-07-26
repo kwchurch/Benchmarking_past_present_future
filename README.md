@@ -104,7 +104,9 @@ Speakers for the following submitted papers can choose to participate in any of 
 Victor Petrén Bach Hansen and Anders Søgaard <br>
 <i>Guideline Bias in Wizard-of-Oz Dialogues</i> </li>
   <li id="Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
-Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation</i></li>
+Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation
+<a href="https://www.youtube.com/watch?v=agPS2EibMJ0">📽️ talk (hosted on: YouTube)</a>
+</i></li>
 <li id="Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
     How Might We Create Better Benchmarks for Speech Recognition?</i></li>
 </ol>
