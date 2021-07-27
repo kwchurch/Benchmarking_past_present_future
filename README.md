@@ -588,6 +588,8 @@ doctor-patient consultations, telemedicine and patient safety.
 <a href="https://bits.blogs.nytimes.com/2013/02/01/the-origins-of-big-data-an-etymological-detective-story">https://bits.blogs.nytimes.com/2013/02/01/the-origins-of-big-data-an-etymological-detective-story</a>
 <br>
 Twitter:@johnmashey
+<br>
+<a href="https://youtu.be/KmwFw0GHET4">📽️ talk (hosted on: YouTube)</a>
 
 <h4>Title: Lessons from SPEC</h4>
  
