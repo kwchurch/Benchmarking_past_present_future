@@ -389,6 +389,9 @@ Qi Zhang (Fudan University)
 Ming Zhou (Sinovation Ventures) 
 <br>
 <a href="https://www.youtube.com/watch?v=7kAR3eUkH_0">📽️ talk (hosted on: YouTube)</a>
+<br>
+<a href="https://www.dropbox.com/sh/w6h0w63l27aakxt/AAAYBZYYV0-QkK7dW7JQTNjFa?dl=0">📽️ talk and 📔 slides (hosted on: Dropbox)</a>
+
 
 <h4> Title: Really Reaching Human Parity? –Addressing Benchmark Issues on Robustness, Bias and Metrics</h4>
 
