@@ -387,6 +387,8 @@ Nan Duan (Microsoft Research Asia)
 Qi Zhang (Fudan University)
 <br>
 Ming Zhou (Sinovation Ventures) 
+<br>
+<a href="https://www.youtube.com/watch?v=7kAR3eUkH_0">📽️ talk (hosted on: YouTube)</a>
 
 <h4> Title: Really Reaching Human Parity? –Addressing Benchmark Issues on Robustness, Bias and Metrics</h4>
 
