@@ -446,6 +446,13 @@ Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 <a href="mailto:davef@ec.ai">davef@ec.ai</a>
 <br>
 <a href="https://ec.ai/">ec.ai</a>
+<br>
+<a href="https://vimeo.com/580829316/53ca42f3c4">📽️ talk (hosted on: Vimeo)</a>
+<br>
+<a href="https://www.youtube.com/watch?v=2YR9oUor3n0">📽️ talk (hosted on: YouTube)</a>
+
+
+
 
 <h4>Title: Machine Understanding in Context</h4>
 
