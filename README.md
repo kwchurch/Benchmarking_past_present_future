@@ -250,7 +250,7 @@ New York University
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
 <p>
-<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️talk</a>
+<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️ talk</a>
 
 <h4>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h4>
 
@@ -595,6 +595,8 @@ doctor-patient consultations, telemedicine and patient safety.
 Twitter:@johnmashey
 <br>
 <a href="https://youtu.be/KmwFw0GHET4">📽️ talk (hosted on: YouTube)</a>
+<br>
+<a href="https://www.bilibili.com/video/BV17o4y1S7Er">📽️ talk (hosted on: bilibili)</a>
 
 <h4>Title: Lessons from SPEC</h4>
  
