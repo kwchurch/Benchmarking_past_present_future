@@ -677,6 +677,8 @@ Bio: Neville Ryant is a researcher at the Linguistic Data Consortium (LDC) at th
 <h3 id="Sogaard">Speaker: Anders Søgaard</h3>
 University of Copenhagen
 <br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
+<br>
+<a href="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">📽️ talk (hosted on: YouTube)</a>
 
 <h4>Title: 5 Ways to Make Your Data More Relevant</h4>
 
