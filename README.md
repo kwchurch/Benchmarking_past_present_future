@@ -462,6 +462,9 @@ Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 <a href="https://vimeo.com/580829316/53ca42f3c4">📽️ talk (hosted on: Vimeo)</a>
 <br>
 <a href="https://www.youtube.com/watch?v=2YR9oUor3n0">📽️ talk (hosted on: YouTube)</a>
+<br>
+<a href="https://www.bilibili.com/video/BV1Ah411z77c/">📽️ talk (hosted on: bilibili)</a>
+
 
 <h4>Title: Machine Understanding in Context</h4>
 
@@ -704,6 +707,9 @@ Baidu
 <a href="https://wuhuanlp.github.io/">Hua Wu</a>
 <br>
 <a href="https://www.machinereading.ai/">Jing Liu</a>
+<br>
+<a href="https://youtu.be/lKPeaFAgHrk">📽️ talk (hosted on: YouTube)</a>
+
 
 <h4>Title: Benchmarks: An Industry Perspective</h4>
 
