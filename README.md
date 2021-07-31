@@ -403,7 +403,8 @@ Ming Zhou (Sinovation Ventures)
 <a href="https://www.youtube.com/watch?v=7kAR3eUkH_0">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.dropbox.com/sh/w6h0w63l27aakxt/AAAYBZYYV0-QkK7dW7JQTNjFa?dl=0">📽️ talk and 📔 slides (hosted on: Dropbox)</a>
-
+<br>
+<a href="https://www.bilibili.com/video/BV1Y64y1W7At">📽️ talk (hosted on: bilibili)</a>
 
 <h4> Title: Really Reaching Human Parity? –Addressing Benchmark Issues on Robustness, Bias and Metrics</h4>
 
@@ -513,9 +514,19 @@ Facebook AI Research
 <br>
 @douwekiela on Twitter
 
-<h4>Title: Rethinking Benchmarking in AI</h4>
+<h4>Title: Dynabench: Rethinking Benchmarking in AI</h4>
 
-The current benchmarking paradigm in AI has many issues: benchmarks saturate quickly, are susceptible to overfitting, contain exploitable annotator artifacts, have unclear or imperfect evaluation metrics, and do not necessarily measure what we really care about. I will talk about our work in trying to rethink the way we do benchmarking in AI, specifically in natural language processing, focusing mostly on the Dynabench platform.
+<a href="https://www.youtube.com/watch?v=OK-AqphGhbw">📽️ talk (hosted on: YouTube)</a>
+<br>
+
+
+The current benchmarking paradigm in AI has many issues: benchmarks
+saturate quickly, are susceptible to overfitting, contain exploitable
+annotator artifacts, have unclear or imperfect evaluation metrics, and
+do not necessarily measure what we really care about. I will talk
+about our work in trying to rethink the way we do benchmarking in AI,
+specifically in natural language processing, focusing mostly on the
+Dynabench platform.
 
 <p>
 
@@ -679,6 +690,8 @@ University of Copenhagen
 <br><a href="https://anderssoegaard.github.io/">https://anderssoegaard.github.io/</a>
 <br>
 <a href="https://www.youtube.com/watch?v=jA9dUFMmcrM">📽️ talk (hosted on: YouTube)</a>
+<br>
+<a href="https://www.bilibili.com/video/BV1gf4y1L7rk">📽️ talk (hosted on: bilibili)</a>
 
 <h4>Title: 5 Ways to Make Your Data More Relevant</h4>
 
@@ -711,7 +724,8 @@ Baidu
 <a href="https://www.machinereading.ai/">Jing Liu</a>
 <br>
 <a href="https://youtu.be/lKPeaFAgHrk">📽️ talk (hosted on: YouTube)</a>
-
+<br>
+<a href="https://www.bilibili.com/video/BV1Ug41177dQ">📽️ talk (hosted on: bilibili)</a>
 
 <h4>Title: Benchmarks: An Industry Perspective</h4>
 
