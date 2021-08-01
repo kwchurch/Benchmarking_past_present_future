@@ -107,6 +107,7 @@ Victor Petrén Bach Hansen and Anders Søgaard <br>
 </i> </li>
   <li id="Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
 Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation
+<a href="https://www.youtube.com/watch?v=FnQfyileFnw">📽️ talk (hosted on: YouTube)</a>
 </i></li>
 <li id="Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
     How Might We Create Better Benchmarks for Speech Recognition?</i></li>
@@ -250,7 +251,7 @@ New York University
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
 <p>
-<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️ talk</a>
+<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️ talk (hosted on: YouTube)</a>
 
 <h4>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h4>
 
@@ -273,6 +274,9 @@ CAREER award.
 
 <h3 id="Choi">Speaker: Eunsol Choi</h3>
 <h4>Title: Context for Interpreting Benchmark Performances</h4>
+
+<a href="https://youtu.be/3Lo-iqo1PjQ">📽️ talk (hosted on: YouTube)</a>
+
 
 Interpreting benchmark results requires a more nuanced study than
 simply comparing a single number (e.g., accuracy). For example, higher
@@ -518,6 +522,7 @@ Facebook AI Research
 
 <a href="https://www.youtube.com/watch?v=OK-AqphGhbw">📽️ talk (hosted on: YouTube)</a>
 <br>
+<a href="https://www.bilibili.com/video/BV1H64y1B7vN/">📽️ talk (hosted on: bilibili)</a>
 
 
 The current benchmarking paradigm in AI has many issues: benchmarks
