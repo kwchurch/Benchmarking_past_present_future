@@ -376,6 +376,8 @@ Innovation Authority.
 <h3 id="Diamos">Speakers: Greg Diamos, Peter Mattson and David Kanter</h3>
 <br>
 <a href="https://www.anandtech.com/show/14754/hot-chips-31-live-blogs-mlperf-benchmark">https://www.anandtech.com/show/14754/hot-chips-31-live-blogs-mlperf-benchmark</a>
+<br>
+<a href="https://youtu.be/unyQPxeGDw4">📽️ talk (hosted on: YouTube)</a>
 
 
 <h4>Title: MLPerf</h4>
