@@ -111,7 +111,9 @@ Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation
 </i></li>
 <li id="Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
     How Might We Create Better Benchmarks for Speech Recognition?</i></li>
-<a href="https://www.youtube.com/watch?v=FnQfyileFnw">📽️ talk (hosted on: YouTube)</a>
+<a href="https://www.youtube.com/watch?v=k9uPwqraDLA">📽️ talk (hosted on: YouTube)</a>
+
+
 </ol>
 <p>
 Invited speakers will be assigned to at least one regular session
