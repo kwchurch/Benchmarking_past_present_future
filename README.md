@@ -723,6 +723,10 @@ value to your existing data.
 <br><a href="https://trec.nist.gov">National Institute of Standards and Technology</a>
 <br><a href="https://www.nist.gov/people/ellen-m-voorhees">https://www.nist.gov/people/ellen-m-voorhees</a>
 
+<br>
+<a href="https://www.nist.gov/video/coopetition-ir-research-presented-ellen-voorhees">📽️ talk (hosted on: NIST)</a>
+
+
 <p>
 Coopetitions are activities in which competitors cooperate for a common good. Community evaluations such as the Text REtrieval Conference (TREC) are prototypical examples of coopetitions in information retrieval (IR) and have now been a part of the field for thirty years. This longevity and the proliferation of shared evaluation tasks suggest that, indeed, the net impact of community evaluations is positive.  But what are these benefits, and what are the attendant costs?
 
