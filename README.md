@@ -276,6 +276,8 @@ CAREER award.
 <h4>Title: Context for Interpreting Benchmark Performances</h4>
 
 <a href="https://youtu.be/3Lo-iqo1PjQ">📽️ talk (hosted on: YouTube)</a>
+<br>
+<a href="https://www.bilibili.com/video/BV1Jv411J76z">📽️ talk (hosted on: bilibili)</a>
 
 
 Interpreting benchmark results requires a more nuanced study than
@@ -378,7 +380,8 @@ Innovation Authority.
 <a href="https://www.anandtech.com/show/14754/hot-chips-31-live-blogs-mlperf-benchmark">https://www.anandtech.com/show/14754/hot-chips-31-live-blogs-mlperf-benchmark</a>
 <br>
 <a href="https://youtu.be/unyQPxeGDw4">📽️ talk (hosted on: YouTube)</a>
-
+<br>
+<a href="https://www.bilibili.com/video/BV1244y1178M">📽️ talk (hosted on: bilibili)</a>
 
 <h4>Title: MLPerf</h4>
 
@@ -556,6 +559,11 @@ Bio: John Makhoul is a Chief Scientist at Raytheon BBN Technologies, Cambridge, 
 <h3 id="Liberman">Speaker: Mark Liberman</h3>
 
 <h4>Title: Benchmarking as a Method for Long-Term Research Management: The Common Task Method</h4>
+<br>
+<a href="https://youtu.be/a-ukPup8gKw">📽️ talk (hosted on: YouTube)</a>
+
+
+
 
 Over the course of half a century, DARPA's Human Language Technology program created capabilities such as speech recognition, machine translation, and text understanding, turning them from science fiction fantasies to everyday practical fact. This sustained success was based on the development of the Common Task Method, which allowed decades of incremental progress in advance of commercial viability. I'll describe the origin and (sometimes counter-intuitive) progress of this method, distinguish it from other uses of benchmarking, and speculate about its future.
 <p>
