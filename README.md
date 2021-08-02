@@ -136,7 +136,7 @@ one that is convenient for timezones elsewhere.
     <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
     <li><a href="#Sogaard">Anders Søgaard</a></li>
     <li><a href="#Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo Poesio and Alexandra Uma</a></li>
-    <li id="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
+    <li><a href="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik</a></li> <i>
   </ol>
 
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
@@ -151,22 +151,21 @@ one that is convenient for timezones elsewhere.
   <li id="S3"> Session 3 (11AM): Convenient for America + Europe (Past) </li>
   <ol>
     Moderator: Henry Kautz
-<li><a href="#Makhoul">John Makhoul</a></li>
-<li><a href="#Liberman">Mark Liberman</a></li>
-<li><a href="#Voorhees">Ellen Voorhees</a></li>
-<li><a href="#Mashey">John Mashey</a></li>
+    <li><a href="#Makhoul">John Makhoul</a></li>
+    <li><a href="#Liberman">Mark Liberman</a></li>
+    <li><a href="#Voorhees">Ellen Voorhees</a></li>
+    <li><a href="#Mashey">John Mashey</a></li>
   </ol>
-
 
 <li id="S4"> Session 4 (3PM): Convenient for America + Europe (Future) </li>
 <ol>
   Moderator: Ken Church
-<li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
-<li><a href="#Ferrucci">Dave Ferrucci</a></li>
-<li><a href="#Dagan">Ido Dagan</a></li>
-<li><a href="#Bowman">Samuel Bowman</a></li>
+  <li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
+  <li><a href="#Ferrucci">Dave Ferrucci</a></li>
+  <li><a href="#Dagan">Ido Dagan</a></li>
+  <li><a href="#Bowman">Samuel Bowman</a></li>
   <li><a href="#Choi">Eunsol Choi</a></li>
-  <li id="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
+  <li><a href="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik</a></li> <i>
 </ol>
 
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
