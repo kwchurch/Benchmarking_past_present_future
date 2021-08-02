@@ -106,12 +106,14 @@ Victor Petrén Bach Hansen and Anders Søgaard <br>
 <a href="https://www.youtube.com/watch?v=agPS2EibMJ0">📽️ talk (hosted on: YouTube)</a>
 </i> </li>
   <li id="Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
-Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation
-<a href="https://www.youtube.com/watch?v=FnQfyileFnw">📽️ talk (hosted on: YouTube)</a>
+    Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation
+      <br><a href="https://www.youtube.com/watch?v=FnQfyileFnw">📽️ talk (hosted on: YouTube)</a>
 </i></li>
 <li id="Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
-    How Might We Create Better Benchmarks for Speech Recognition?</i></li>
-<a href="https://www.youtube.com/watch?v=k9uPwqraDLA">📽️ talk (hosted on: YouTube)</a>
+    How Might We Create Better Benchmarks for Speech Recognition?</i>
+<br><a href="https://www.youtube.com/watch?v=k9uPwqraDLA">📽️ talk (hosted on: YouTube)</a>
+</li>
+
 
 
 </ol>
@@ -134,6 +136,7 @@ one that is convenient for timezones elsewhere.
     <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
     <li><a href="#Sogaard">Anders Søgaard</a></li>
     <li><a href="#Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo Poesio and Alexandra Uma</a></li>
+    <li id="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
   </ol>
 
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
@@ -162,7 +165,8 @@ one that is convenient for timezones elsewhere.
 <li><a href="#Ferrucci">Dave Ferrucci</a></li>
 <li><a href="#Dagan">Ido Dagan</a></li>
 <li><a href="#Bowman">Samuel Bowman</a></li>
-      <li><a href="#Choi">Eunsol Choi</a></li>
+  <li><a href="#Choi">Eunsol Choi</a></li>
+  <li id="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
 </ol>
 
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
