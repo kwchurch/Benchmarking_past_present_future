@@ -643,11 +643,9 @@ doctor-patient consultations, telemedicine and patient safety.
 <br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.325.7027&rep=rep1&type=pdf"> War of the Benchmark Means: Time for a Truce</a>, ACM SIGARCH, 2004.
 <br>
-<a href="https://ieeexplore.ieee.org/document/1525995">Summarizing Performance is No Mean Feat</a>, IEEE 2005
+<a href="https://ieeexplore.ieee.org/document/1525995">Summarizing Performance is No Mean Feat</a>, IEEE 2005 (<a href="https://techviser.com/docs/Mashey.nomeanfeat.2008.pdf">slides</a>)
 <br>
 <a href="https://bits.blogs.nytimes.com/2013/02/01/the-origins-of-big-data-an-etymological-detective-story">https://bits.blogs.nytimes.com/2013/02/01/the-origins-of-big-data-an-etymological-detective-story</a>
-<br>
-<a href="https://techviser.com/docs/Mashey.nomeanfeat.2008.pdf">https://techviser.com/docs/Mashey.nomeanfeat.2008.pdf</a>
 <br>
 Twitter:@johnmashey
 <br>
