@@ -165,7 +165,7 @@ one that is convenient for timezones elsewhere.
   <li><a href="#Dagan">Ido Dagan</a></li>
   <li><a href="#Bowman">Samuel Bowman</a></li>
   <li><a href="#Choi">Eunsol Choi</a></li>
-  <li><a href="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik</a></li> <i>
+  <li><a href="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik</a></li>
 </ol>
 
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
