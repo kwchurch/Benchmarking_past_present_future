@@ -136,7 +136,7 @@ one that is convenient for timezones elsewhere.
     <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
     <li><a href="#Sogaard">Anders Søgaard</a></li>
     <li><a href="#Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo Poesio and Alexandra Uma</a></li>
-    <li><a href="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik</a></li> <i>
+    <li><a href="#Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik</a></li>
   </ol>
 
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
