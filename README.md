@@ -160,6 +160,7 @@ one that is convenient for timezones elsewhere.
 <li id="S4"> Session 4 (3PM): Convenient for America + Europe (Future) </li>
 <ol>
   Moderator: Ken Church
+<a href="https://youtu.be/7wwcqKyzEtE">📽️ talk (hosted on: YouTube)</a>
   <li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
   <li><a href="#Ferrucci">Dave Ferrucci</a></li>
   <li><a href="#Dagan">Ido Dagan</a></li>
