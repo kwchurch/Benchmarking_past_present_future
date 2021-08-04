@@ -617,6 +617,8 @@ University of Edinburgh
 
 <a href="https://youtu.be/K_Et3r2GWf0">📽️ Brian's talk (hosted on: YouTube)</a> and 
 <a href="https://youtu.be/pxdcn7fkvsI">📽️ Saturnino's talk (hosted on: YouTube)</a>
+<br>
+<a href="slides/session1/Brian.pptx">📔 Brian's slides (hosted on: github)</a>
 
 
 <h4>Title: Detection of Dementia from Speech Samples</h4>
