@@ -613,7 +613,8 @@ University of Edinburgh
 <br>
 <a href="https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho">https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho</a>
 <br>
-<a href="https://youtu.be/pxdcn7fkvsI">📽️ talk (hosted on: YouTube)</a>
+<a href="https://youtu.be/pxdcn7fkvsI">📽️ Brian's talk (hosted on: YouTube)</a> and 
+<a href="https://youtu.be/pxdcn7fkvsI">📽️ Saturnino's talk (hosted on: YouTube)</a>
 
 
 <h4>Title: Detection of Dementia from Speech Samples</h4>
