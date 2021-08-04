@@ -691,6 +691,9 @@ Linguistic Data Consortium, University of Pennsylvania
       <br>
       <a href="https://dihardchallenge.github.io/dihard3/">DIHARD</a>
 <p>
+<a href="https://youtu.be/3TpB0n3HliY">📽️ talk (hosted on: YouTube)</a>
+
+<p>
 <h4>Title: Benchmarking for diarization. Lessons from the DIHARD evaluation series</h4>
 
 
