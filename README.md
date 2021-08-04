@@ -104,6 +104,7 @@ Speakers for the following submitted papers can choose to participate in any of 
 Victor Petrén Bach Hansen and Anders Søgaard <br>
 <i>Guideline Bias in Wizard-of-Oz Dialogues<br>
 <a href="https://www.youtube.com/watch?v=agPS2EibMJ0">📽️ talk (hosted on: YouTube)</a>
+<a href="slides/session2/Victor_Guidelines_Bias_ACL_WS.pdf">📔 slides (hosted on: github)</a>
 </i> </li>
   <li id="Valerio">Valerio Basile, Michael Fell, Tommaso Fornaciari, Dirk Hovy, Silviu Paun, Barbara Plank, Massimo
     Poesio and Alexandra Uma <br><i>We Need to Consider Disagreement in Evaluation
@@ -112,6 +113,7 @@ Victor Petrén Bach Hansen and Anders Søgaard <br>
 <li id="Alena">Alëna Aksënova, Daan van Esch, James Flynn and Pavel Golik <br> <i>
     How Might We Create Better Benchmarks for Speech Recognition?</i>
 <br><a href="https://www.youtube.com/watch?v=k9uPwqraDLA">📽️ talk (hosted on: YouTube)</a>
+<br><a href="https://www.bilibili.com/video/BV16b4y1r7rD">📽️ talk (hosted on: bilibili)</a>
 </li>
 
 
@@ -161,6 +163,8 @@ one that is convenient for timezones elsewhere.
 <ol>
   Moderator: Ken Church
 <a href="https://youtu.be/7wwcqKyzEtE">📽️ talk (hosted on: YouTube)</a>
+<a href="https://www.bilibili.com/video/BV1uU4y1J7XZ">📽️ talk (hosted on: bilibili)</a>
+<a href="slides/session4/moderator4.pptx">📔 slides (hosted on: github)</a>
   <li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
   <li><a href="#Ferrucci">Dave Ferrucci</a></li>
   <li><a href="#Dagan">Ido Dagan</a></li>
@@ -171,8 +175,9 @@ one that is convenient for timezones elsewhere.
 
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
   <ol>
-    Moderator: Ellen Voorhees <a href="https://youtu.be/3TpB0n3HliY">📽️ talk (hosted on: YouTube)</a>
-
+    Moderator: Ellen Voorhees <a href="https://youtu.be/0pE7QTaJ1TU">📽️ talk (hosted on: YouTube)</a>
+<a href="https://www.bilibili.com/video/BV16b4y1r7rD">📽️ talk (hosted on: bilibili)</a>
+<a href="slides/session5/Session5.pptx">📔 slides (hosted on: github)</a>
 <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li><a href="#Ryant">Neville Ryant</a></li>
@@ -286,7 +291,8 @@ CAREER award.
 <a href="https://youtu.be/3Lo-iqo1PjQ">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1Jv411J76z">📽️ talk (hosted on: bilibili)</a>
-
+<br>
+<a href="slides/session4/benchmark_talk_acl2021_workshop_eunsol.pdf">📔 slides (hosted on: github)</a>
 
 Interpreting benchmark results requires a more nuanced study than
 simply comparing a single number (e.g., accuracy). For example, higher
@@ -320,6 +326,8 @@ ML venues.
 Bar-Ilan University 
 <br>
 <a href="https://u.cs.biu.ac.il/~dagan/">https://u.cs.biu.ac.il/~dagan</a>
+<br>
+<a href="slides/session4/Dagan.pptx">📔 slides (hosted on: github)</a>
 <p>
 <h4>Title: Moving out of the comfort zones: desired shifts in NLP benchmarking</h4>
 <p>
@@ -390,6 +398,8 @@ Innovation Authority.
 <a href="https://youtu.be/unyQPxeGDw4">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1244y1178M">📽️ talk (hosted on: bilibili)</a>
+<br>
+<a href="slides/session4/Diamos.pptx">📔 slides (hosted on: github)</a>
 
 <h4>Title: MLPerf</h4>
 
@@ -422,6 +432,8 @@ Ming Zhou (Sinovation Ventures)
 <a href="https://www.dropbox.com/sh/w6h0w63l27aakxt/AAAYBZYYV0-QkK7dW7JQTNjFa?dl=0">📽️ talk and 📔 slides (hosted on: Dropbox)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1Y64y1W7At">📽️ talk (hosted on: bilibili)</a>
+<br>
+<a href="slides/session5/Zhang_Duan_Zhou_Benchmark.ACL2021.final.pptx">📔 slides (hosted on: github)</a>
 
 <h4> Title: Really Reaching Human Parity? –Addressing Benchmark Issues on Robustness, Bias and Metrics</h4>
 
@@ -482,7 +494,8 @@ Founder & CEO, <a href="https://ec.ai/">Elemental Cognition</a>
 <a href="https://www.youtube.com/watch?v=2YR9oUor3n0">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1Ah411z77c/">📽️ talk (hosted on: bilibili)</a>
-
+<br>
+<a href="slides/session4/ACL_Talk_Ferrucci.pdf">📔 slides (hosted on: github)</a>
 
 <h4>Title: Machine Understanding in Context</h4>
 
@@ -536,7 +549,8 @@ Facebook AI Research
 <a href="https://www.youtube.com/watch?v=OK-AqphGhbw">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1H64y1B7vN/">📽️ talk (hosted on: bilibili)</a>
-
+<br>
+<a href="slides/session2/Dynabench_ACL_Benchmarking_Workshop.pdf">📔 slides (hosted on: github)</a>
 
 The current benchmarking paradigm in AI has many issues: benchmarks
 saturate quickly, are susceptible to overfitting, contain exploitable
@@ -556,6 +570,8 @@ Bio: Douwe Kiela is a Research Scientist at Facebook AI Research, working on nat
 <a href="https://www.bilibili.com/video/BV1i54y1E7Xx">📽️ talk (hosted on: bilibili)</a>
 <br>
 <a href="https://drive.google.com/file/d/1n4pNYfPfXoTM1dvXWMFy4mOctRIjJ6Ph/view?usp=sharing">📔 slides</a>
+<br>
+<a href="slides/session3/Makhoul Benchmarking 2021 refs.pptx">📔 slides (hosted on: github)</a>
 
 <h4>Title: The Dawn of Benchmarking</h4>
 
@@ -569,6 +585,10 @@ Bio: John Makhoul is a Chief Scientist at Raytheon BBN Technologies, Cambridge, 
 <h4>Title: Benchmarking as a Method for Long-Term Research Management: The Common Task Method</h4>
 <br>
 <a href="https://youtu.be/a-ukPup8gKw">📽️ talk (hosted on: YouTube)</a>
+<br>
+<a href="https://www.bilibili.com/video/BV1Nf4y1V742">📽️ talk (hosted on: bilibili)</a>
+<br>
+<a href="slides/session3/LibermanBenchmarking.pptx.gz">📔 slides (hosted on: github)</a>
 
 
 
@@ -653,6 +673,8 @@ Twitter:@johnmashey
 <a href="https://youtu.be/KmwFw0GHET4">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV17o4y1S7Er">📽️ talk (hosted on: bilibili)</a>
+<br>
+<a href="slides/session3/Mashey2.pptx">📔 slides (hosted on: github)</a>
 
 <h4>Title: Lessons from SPEC</h4>
  
@@ -692,8 +714,10 @@ Linguistic Data Consortium, University of Pennsylvania
       <br>
       <a href="https://dihardchallenge.github.io/dihard3/">DIHARD</a>
 <p>
-<a href="https://youtu.be/3TpB0n3HliY">📽️ talk (hosted on: YouTube)</a>
-
+  <a href="https://youtu.be/3TpB0n3HliY">📽️ talk (hosted on: YouTube)</a>
+<br><a href="https://www.bilibili.com/video/BV1eQ4y1f7rj">📽️ talk (hosted on: bilibili)</a>
+  <br>
+<a href="slides/session5/bppf_2021_ryant_slides.pptx">📔 slides (hosted on: github)</a>
 <p>
 <h4>Title: Benchmarking for diarization. Lessons from the DIHARD evaluation series</h4>
 
@@ -721,6 +745,8 @@ University of Copenhagen
 <a href="https://www.youtube.com/watch?v=jA9dUFMmcrM">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1gf4y1L7rk">📽️ talk (hosted on: bilibili)</a>
+<br>
+<a href="slides/session2/Sogaard.pdf">📔 slides (hosted on: github)</a>
 
 <h4>Title: 5 Ways to Make Your Data More Relevant</h4>
 
@@ -733,7 +759,7 @@ value to your existing data.
 <h3 id="Voorhees">Speaker: Ellen Voorhees</h3>
 <br><a href="https://trec.nist.gov">National Institute of Standards and Technology</a>
 <br><a href="https://www.nist.gov/people/ellen-m-voorhees">https://www.nist.gov/people/ellen-m-voorhees</a>
-
+<br><a href="slides/session3/Ellen_benchmarking.pdf">📔 slides (hosted on: github)</a>
 <br>
 <a href="https://www.nist.gov/video/coopetition-ir-research-presented-ellen-voorhees">📽️ talk (hosted on: NIST)</a>
 
@@ -759,6 +785,8 @@ Baidu
 <a href="https://youtu.be/lKPeaFAgHrk">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="https://www.bilibili.com/video/BV1Ug41177dQ">📽️ talk (hosted on: bilibili)</a>
+<br>
+<a href="slides/session5/wu_hua.pdf">📔 slides (hosted on: github)</a>
 
 <h4>Title: Benchmarks: An Industry Perspective</h4>
 
