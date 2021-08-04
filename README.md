@@ -171,7 +171,8 @@ one that is convenient for timezones elsewhere.
 
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
   <ol>
-    Moderator: Ellen Voorhees
+    Moderator: Ellen Voorhees <a href="https://youtu.be/3TpB0n3HliY">📽️ talk (hosted on: YouTube)</a>
+
 <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li><a href="#Ryant">Neville Ryant</a></li>
