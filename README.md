@@ -35,7 +35,7 @@ keynote</a>.
   <li>  <del>June 7, 2021</del>: Camera-ready papers due </li>
   <li>  July 31, 2021: Pre-recorded talks will be posted on YouTube and bilibili.
     🆕 A talks available now!  Look for 📽️</li>
-  <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 A few are already available.</li>
+  <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 Most are available now.</li>
   <li>  August 5, 2021: Workshop date </li>
   </ul>
 
@@ -326,6 +326,8 @@ ML venues.
 Bar-Ilan University 
 <br>
 <a href="https://u.cs.biu.ac.il/~dagan/">https://u.cs.biu.ac.il/~dagan</a>
+<br>
+<a href="https://youtu.be/Jb6G25ZJ-VU">📽️ talk (hosted on: YouTube)</a>
 <br>
 <a href="slides/session4/Dagan.pptx">📔 slides (hosted on: github)</a>
 <p>
