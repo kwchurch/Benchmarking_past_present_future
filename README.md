@@ -36,7 +36,7 @@ keynote</a>.
   <li>  July 31, 2021: Pre-recorded talks will be posted on YouTube and bilibili.
     🆕 A talks available now!  Look for 📽️</li>
   <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 Most are available now.</li>
-  <li>  August 5, 2021: Workshop date </li>
+  <li>  August 5, 2021: Workshop date; <a href="https://underline.io/events/167/sessions?eventSessionId=6282">zoom call (ACL registration required)</a></li>
   </ul>
 
 <h2>Invited Speakers</h2> 
@@ -264,7 +264,12 @@ New York University
 <br>
 <a href="https://twitter.com/sleepinyourhat">https://twitter.com/sleepinyourhat</a>
 <p>
-<a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️ talk (hosted on: YouTube)</a>
+  <a href="https://www.youtube.com/watch?v=OYaDkOHFhAI">📽️ talk (hosted on: YouTube)</a>
+  <br>
+<a href="slides/session4/Bowman.pdf">📔 slides (hosted on: github)</a>
+  <br>
+<a href="https://underline.io/events/167/sessions?eventSessionId=6282">📔 slides (hosted on: Google Drive)</a>
+  
 
 <h4>Title: What Will it Take to Fix Benchmarking in Natural Language Understanding?</h4>
 
