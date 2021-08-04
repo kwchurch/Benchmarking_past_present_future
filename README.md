@@ -612,8 +612,10 @@ Language Technologies and Modern Languages, CMU
 University of Edinburgh
 <br>
 <a href="https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho">https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho</a>
+
 <br>
-<a href="https://youtu.be/Jb6G25ZJ-VU">📽️ Brian's talk (hosted on: YouTube)</a> and 
+
+<a href="https://youtu.be/K_Et3r2GWf0">📽️ Brian's talk (hosted on: YouTube)</a> and 
 <a href="https://youtu.be/pxdcn7fkvsI">📽️ Saturnino's talk (hosted on: YouTube)</a>
 
 
