@@ -612,14 +612,14 @@ Language Technologies and Modern Languages, CMU
 University of Edinburgh
 <br>
 <a href="https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho">https://www.research.ed.ac.uk/en/persons/saturnino-luz-filho</a>
-
 <br>
 
 <a href="https://youtu.be/K_Et3r2GWf0">📽️ Brian's talk (hosted on: YouTube)</a> and 
 <a href="https://youtu.be/pxdcn7fkvsI">📽️ Saturnino's talk (hosted on: YouTube)</a>
 <br>
 <a href="slides/session1/Brian.pptx">📔 Brian's slides (hosted on: github)</a>
-
+<br>
+<a href="slides/session1/luz-macwhinney-talk.pdf">📔 Luz's slides (hosted on: github)</a>
 
 <h4>Title: Detection of Dementia from Speech Samples</h4>
 <p>
