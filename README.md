@@ -143,7 +143,7 @@ one that is convenient for timezones elsewhere.
 
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
   <ol>
-    Moderator: Mark Liberman
+    Moderator: Mark Liberman <a href="slides/session2/LibermanBenchmarkingSession2.pptx">📔 slides (hosted on: github)</a>
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
 <li><a href="#Sogaard">Anders Søgaard</a></li>
