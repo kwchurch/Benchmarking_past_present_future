@@ -36,7 +36,7 @@ keynote</a>.
   <li>  July 31, 2021: Pre-recorded talks will be posted on YouTube and bilibili.
     🆕 A talks available now!  Look for 📽️</li>
   <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 Most are available now.</li>
-  <li>  August 5, 2021: Workshop date; <a href="https://underline.io/events/167/sessions?eventSessionId=6282">zoom call (ACL registration required)</a></li>
+  <li>  August 5, 2021: Workshop date; <a href="https://aclanthology.org/volumes/2021.bppf-1/">Papers (hosted in ACL Anthology)</a> <a href="https://underline.io/events/167/sessions?eventSessionId=6282">zoom call (ACL registration required)</a></li>
   </ul>
 
 <h2>Invited Speakers</h2> 
