@@ -334,6 +334,8 @@ Bar-Ilan University
 <br>
 <a href="https://youtu.be/Jb6G25ZJ-VU">📽️ talk (hosted on: YouTube)</a>
 <br>
+<a href="https://www.bilibili.com/video/BV1cb4y1z75a">📽️ talk (hosted on: bilibili)</a>
+<br>
 <a href="slides/session4/Dagan.pptx">📔 slides (hosted on: github)</a>
 <p>
 <h4>Title: Moving out of the comfort zones: desired shifts in NLP benchmarking</h4>
@@ -617,6 +619,9 @@ University of Edinburgh
 <a href="https://youtu.be/K_Et3r2GWf0">📽️ Brian's talk (hosted on: YouTube)</a> and 
 <a href="https://youtu.be/pxdcn7fkvsI">📽️ Saturnino's talk (hosted on: YouTube)</a>
 <br>
+<a href="https://www.bilibili.com/video/BV1mo4y1S7hH">📽️ Brian's talk (hosted on: bilibili)</a>
+<br>
+
 <a href="slides/session1/Brian.pptx">📔 Brian's slides (hosted on: github)</a>
 <br>
 <a href="slides/session1/luz-macwhinney-talk.pdf">📔 Luz's slides (hosted on: github)</a>
