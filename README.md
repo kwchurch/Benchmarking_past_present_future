@@ -33,10 +33,11 @@ keynote</a>.
   <li> <del>May 5, 2021</del>: Paper submission</li>
   <li>  <del>May 28, 2021</del>: Notification of acceptance </li>
   <li>  <del>June 7, 2021</del>: Camera-ready papers due </li>
-  <li>  July 31, 2021: Pre-recorded talks will be posted on YouTube and bilibili.
+  <li>  <del>July 31, 2021 </del>: Pre-recorded talks will be posted on YouTube and bilibili.
     🆕 A talks available now!  Look for 📽️</li>
-  <li>  July 31, 2021: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 Most are available now.</li>
-  <li>  August 5, 2021: Workshop date; <a href="https://aclanthology.org/volumes/2021.bppf-1/">Papers (hosted in ACL Anthology)</a> <a href="https://underline.io/events/167/sessions?eventSessionId=6282">zoom call (ACL registration required)</a></li>
+  <li>  <del>July 31, 2021</del>: Slides for pre-recorded talks will be posted in this github and perhaps elsewhere (look for 📔). 🆕 Most are available now.</li>
+  <li>  <del>August 5, 2021</del>: Workshop date; <a href="https://aclanthology.org/volumes/2021.bppf-1/">Papers (hosted in ACL Anthology)</a> <a href="https://underline.io/events/167/sessions?eventSessionId=6282">zoom call (ACL registration required)</a></li>
+  <li> Aug 20, 2021: Zoom discussion (search for "Zoom") </li>
   </ul>
 
 <h2>Invited Speakers</h2> 
@@ -133,6 +134,9 @@ one that is convenient for timezones elsewhere.
   <li id="S1"> Session 1 (7AM): Convenient for Asia + Europe (bonus session) </li>
   <ol>
     Moderators: Hang Li and Valia Kordoni
+<br>
+<a href="https://youtu.be/dAlfbwtG9u0">📽️ Zoom Discussion (part 1 of 2) (hosted on: YouTube)</a>
+<br>
     <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
     <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
     <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
