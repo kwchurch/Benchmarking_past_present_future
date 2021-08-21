@@ -136,6 +136,7 @@ one that is convenient for timezones elsewhere.
     Moderators: Hang Li and Valia Kordoni
 <br>
 <a href="https://youtu.be/dAlfbwtG9u0">📽️ Zoom Discussion (part 1 of 2) (hosted on: YouTube)</a>
+<a href="https://youtu.be/d_YZ8bxqtJQ">📽️ Zoom Discussion (part 2 of 2) (hosted on: YouTube)</a>
 <br>
     <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
     <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
@@ -148,6 +149,9 @@ one that is convenient for timezones elsewhere.
   <li id="S2"> Session 2 (9AM): Convenient for America + Europe (Present 1)</li>
   <ol>
     Moderator: Mark Liberman <a href="slides/session2/LibermanBenchmarkingSession2.pptx">📔 slides (hosted on: github)</a>
+    <br>
+    <a href="https://youtu.be/d_YZ8bxqtJQ">📽️ Zoom Discussion (hosted on: YouTube)</a>
+
 <li><a href="#MacWhinney">Brian MacWhinney and Saturnino Luz</a></li>
 <li><a href="#Kiela">Douwe Kiela</a> </li>
 <li><a href="#Sogaard">Anders Søgaard</a></li>
@@ -157,6 +161,8 @@ one that is convenient for timezones elsewhere.
   <li id="S3"> Session 3 (11AM): Convenient for America + Europe (Past) </li>
   <ol>
     Moderator: Henry Kautz
+    <br>
+    <a href="https://youtu.be/egcP_qEEb1E">📽️ Zoom Discussion (hosted on: YouTube)</a>
     <li><a href="#Makhoul">John Makhoul</a></li>
     <li><a href="#Liberman">Mark Liberman</a></li>
     <li><a href="#Voorhees">Ellen Voorhees</a></li>
@@ -166,9 +172,15 @@ one that is convenient for timezones elsewhere.
 <li id="S4"> Session 4 (3PM): Convenient for America + Europe (Future) </li>
 <ol>
   Moderator: Ken Church
+<br>
 <a href="https://youtu.be/7wwcqKyzEtE">📽️ talk (hosted on: YouTube)</a>
 <a href="https://www.bilibili.com/video/BV1uU4y1J7XZ">📽️ talk (hosted on: bilibili)</a>
 <a href="slides/session4/moderator4.pptx">📔 slides (hosted on: github)</a>
+    <br>
+    <a href="https://youtu.be/Fb-KGI8uHfk">📽️ Zoom Discussion (part 1 of 2) (hosted on: YouTube)</a>
+<br>
+    <a href="https://youtu.be/oTjPry9v5KE">📽️ Zoom Discussion (part 2 of 2) (hosted on: YouTube)</a>
+
   <li><a href="#Diamos">Greg Diamos, Peter Mattson and David Kanter</a></li>
   <li><a href="#Ferrucci">Dave Ferrucci</a></li>
   <li><a href="#Dagan">Ido Dagan</a></li>
@@ -180,8 +192,11 @@ one that is convenient for timezones elsewhere.
   <li id="S5"> Session 5 (9PM): Convenient for America + Asia (Present 2) </li>
   <ol>
     Moderator: Ellen Voorhees <a href="https://youtu.be/0pE7QTaJ1TU">📽️ talk (hosted on: YouTube)</a>
+
 <a href="https://www.bilibili.com/video/BV16b4y1r7rD">📽️ talk (hosted on: bilibili)</a>
 <a href="slides/session5/Session5.pptx">📔 slides (hosted on: github)</a>
+    <br>
+    <a href="https://youtu.be/VJXT-qAKmkg">📽️ Zoom Discussion (hosted on: YouTube)</a>
 <li><a href="#Ming">Nan Duan, Qi Zhang and Ming Zhou</a></li>
 <li><a href="#Wu">Hua Wu and Jing Liu</a></li>
 <li><a href="#Ryant">Neville Ryant</a></li>
