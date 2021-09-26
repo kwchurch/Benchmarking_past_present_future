@@ -139,8 +139,8 @@ one that is convenient for timezones elsewhere.
 <a href="https://youtu.be/d_YZ8bxqtJQ">📽️ Zoom Discussion (part 2 of 2) (hosted on: YouTube)</a>
 <br>
 
-<a href="https://www.bilibili.com/video/BV1dg411c7vw" 📽️ Zoom Discussion (part 1 of 2) (hosted on: bilibili)</a>
-<a href="https://www.bilibili.com/video/BV1yf4y1E7x8" 📽️ Zoom Discussion (part 2 of 2) (hosted on: bilibili)</a>
+<a href="https://www.bilibili.com/video/BV1dg411c7vw">📽️ Zoom Discussion (part 1 of 2) (hosted on: bilibili)</a>
+<a href="https://www.bilibili.com/video/BV1yf4y1E7x8">📽️ Zoom Discussion (part 2 of 2) (hosted on: bilibili)</a>
 
 
 <br>
